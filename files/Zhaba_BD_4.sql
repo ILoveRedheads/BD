@@ -277,11 +277,205 @@ INTO Boeing_Model_Table
 FROM Plane
 WHERE Manufacturer = "Boeing";
 
+
+
+
+
+
+
+
+
+
+
+
+
 -- JOIN. 20 запросов
 
+-- 53. INNER JOIN. Какие из маршалов находятся на каком рейсе
+SELECT *
+FROM Flight
+INNER JOIN Air_Marshal
+ON Air_Marshal.id = Flight.id_Air_Marshal;
+
+-- 54. INNER JOIN. То же самое с механиками на станциях
+SELECT *
+FROM Aircraft_Mechanic 
+INNER JOIN Repair_Station
+ON Aircraft_Mechanic.id = Aircraft_Mechanic.id_Repair_Station;
+
+-- 55. То же самое с самолетами в ангаре 
+SELECT *
+FROM Plane 
+INNER JOIN Hangar
+ON Hangar.id = Plane.id_Hangar;
+
+-- 56. Вся информация о билетах и багаже
+SELECT *
+FROM `Luggage` 
+LEFT JOIN `Ticket` 
+ON Luggage.id_Ticket = Ticket.id; 
+
+-- 57. То же самое про рейсы и перевозимый ими груз
+SELECT  *
+FROM Cargo
+LEFT JOIN Flight
+ON Cargo.id_Flight=Flight.id;
+
+-- 58. Вывести дату подключения и описание конкретного продукта
+
+SELECT `description`,connection_date
+FROM product p
+LEFT JOIN product_type p_t
+ON p.id_product_type = p_t.id
+WHERE name = 'Дебетовая';
+
+-- 59. Вывести данные начальника, исключив данные сына - стажера по id
+
+SELECT contact_details,post,salary
+FROM specialist s
+LEFT JOIN department d
+ON s.id_department=d.id
+WHERE contact_details = "+79053918793" AND POST = "Младший специалист"
+ORDER BY 2 DESC;
 
 
+/*
+-- 60. Выведем всех котиков по магазитнам по id. Пример с котами нагляднее :)
+
+CREATE TABLE `shops` (
+	`id` INT,
+    `shopname` VARCHAR (100),
+    PRIMARY KEY (id)
+);
+CREATE TABLE `cats` (
+	`name` VARCHAR (100),
+    `id` INT,
+    PRIMARY KEY (id),
+    shops_id INT,
+    CONSTRAINT fk_cats_shops_id FOREIGN KEY (shops_id)
+        REFERENCES `shops` (id)
+);
+
+INSERT INTO `shops`
+VALUES 
+		(1, "Четыре лапы"),
+        (2, "Мистер Зоо"),
+        (3, "МурзиЛЛа"),
+        (4, "Кошки и собаки");
+
+INSERT INTO `cats`
+VALUES 
+		("Murzik",1,1),
+        ("Nemo",2,2),
+        ("Vicont",3,1),
+        ("Zuza",4,3);
+
+SELECT `name`, `shopname`
+FROM `cats` 
+JOIN `shops`
+ON shops.id = cats.shops_id;
+
+*/
+
+-- 61. LEFT JOIN. Все значения, что были в шоп_нэйм пустыми, окажутся заполненными NULL
+
+INSERT INTO `cats` VALUES ("Reks", 6, NULL );
+
+SELECT `name`, `shopname`
+FROM `cats` 
+left JOIN `shops`
+ON shops.id = cats.shops_id;
+
+-- 62. Вывести все значения , НО без Рекса (NULL)
+
+SELECT `name`, `shopname`
+FROM `cats` 
+inner JOIN `shops`
+ON shops.id = cats.shops_id;
+
+-- 63.  Заполнит левую таблицу пустыми значениями, если они имеются
+
+INSERT INTO `cats` VALUES ("",8, 4);
+
+SELECT `name`, `shopname`
+FROM `cats` 
+RIGHT JOIN `shops`
+ON shops.id = cats.shops_id;
+
+-- 64. IINER JOIN и CROSS JOIN в mysql одинаковые (такой же рузультат, что и в №62)
+
+SELECT `name`, `shopname`
+FROM `cats` 
+CROSS JOIN `shops`
+ON shops.id = cats.shops_id;
+
+-- 65. "Декартово объединение" таблиц
+
+SELECT *from specialist
+JOIN department
+JOIN office
+JOIN department_type;
+
+-- 66. Одинаковые таблицы 1 раз появляются
+
+SELECT *from specialist
+NATURAL JOIN department;
+
+-- 67. Выведем авиамехаников, которые работыаю на первой ремонтной станции
+
+SELECT id
+FROM Repair_Station
+LEFT JOIN Aircraft_Mechanic
+ON Repair_Station.id=Aircraft_Mechanic.id_Repair_Station
+WHERE id = 1;
+
+-- 68. Отобразим информацию пилотах и рейсах
+
+SELECT *FROM Pilot
+JOIN Flight;
+
+-- 69. Выведем по ID всех продуктов их типы
+
+SELECT connection_date
+FROM product p
+JOIN product_type p_t
+ON p.id_product_type=p_t.id;
+
+-- 70. Тип продукта и его имя по ID
+
+SELECT `name` 
+FROM product_type p_t
+RIGHT JOIN product p
+ON p.id_product_type = p_t.id;
+
+-- 71. Декартово объединение
+
+SELECT *
+FROM service
+JOIN specialist
+JOIN office;
+
+-- 72. Стоблцы используются только 1 раз
+
+SELECT *
+FROM specialist
+NATURAL JOIN department;
+
+-- 73. То же самое
+
+SELECT *
+FROM `action`
+NATURAL JOIN action_type;
 -- GROUP BY, ORDER BY, HAVING 
+
+
+
+
+
+
+
+
+
 
 -- 74. Сумиируем зарплаты пилотов по их званиям
 
@@ -412,4 +606,43 @@ LIMIT 4, 6;
 SELECT Arrival_Time
 FROM flight 
 LIMIT 3, 4;
+
+-- 94. Пилот - з/п с помошью сложения строк с разделителем в виде "-"
+
+SELECT *,
+CONCAT_WS(' - ',  `ФИО`, `Зарплата`) AS `result`
+FROM `Pilot`;
+
+-- 95. Стаж бортпроводников без разделителей
+
+SELECT *,
+CONCAT('Информация о стаже бортпроводников: ',  `ФИО`, `Стаж`) AS `result`
+FROM `Flight_Attendant`;
+
+-- 96. Присвоим всем ремонтным станциям почтовые индексы
+ 
+SELECT *,
+CONCAT(repair_index, ', индекс: 123456') AS repair_index
+FROM Repair_Station;
+
+-- 97. Посчитаем длину строки (зачем-то? :D) названий аэропортов
+
+SELECT *, 
+LENGTH(Название) as length 
+FROM Airport;
+
+-- 98.  Найти поломку самолета
+
+
+-- 99. Сократим названия производителей самолетов до первых трех букв
+
+SELECT 
+MID(Производитель, 1, 3) 
+FROM Plane;
+
+-- 100. Доведем зарплату всех пилотов до семизначной суммы (босс сегодня щедрый)
+
+SELECT id,
+RPAD(Зарплата, 7, '0') 
+FROM Pilot;
 
