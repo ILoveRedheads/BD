@@ -321,61 +321,24 @@ FROM Cargo
 LEFT JOIN Flight
 ON Cargo.id_Flight=Flight.id;
 
--- 58. Вывести дату подключения и описание конкретного продукта
+-- 58. Показать, по какому билету провозят партию героина
 
-SELECT `description`,connection_date
-FROM product p
-LEFT JOIN product_type p_t
-ON p.id_product_type = p_t.id
-WHERE name = 'Дебетовая';
+SELECT *
+FROM Luggage L
+LEFT JOIN Ticket T
+ON L.id_Ticket = T.id
+WHERE Содержимое = "Партия героина";
 
--- 59. Вывести данные начальника, исключив данные сына - стажера по id
+-- 59. Показать, на каком рейсе находится Борис Бритва
 
-SELECT contact_details,post,salary
-FROM specialist s
-LEFT JOIN department d
-ON s.id_department=d.id
-WHERE contact_details = "+79053918793" AND POST = "Младший специалист"
-ORDER BY 2 DESC;
+SELECT *
+FROM  Flight F
+LEFT JOIN Air_Marshal A
+ON F.id_Air_Marshal=A.id
+WHERE ФИО = "Борис Хренпопадёшь Бритва";
 
-
-/*
 -- 60. Выведем всех котиков по магазитнам по id. Пример с котами нагляднее :)
 
-CREATE TABLE `shops` (
-	`id` INT,
-    `shopname` VARCHAR (100),
-    PRIMARY KEY (id)
-);
-CREATE TABLE `cats` (
-	`name` VARCHAR (100),
-    `id` INT,
-    PRIMARY KEY (id),
-    shops_id INT,
-    CONSTRAINT fk_cats_shops_id FOREIGN KEY (shops_id)
-        REFERENCES `shops` (id)
-);
-
-INSERT INTO `shops`
-VALUES 
-		(1, "Четыре лапы"),
-        (2, "Мистер Зоо"),
-        (3, "МурзиЛЛа"),
-        (4, "Кошки и собаки");
-
-INSERT INTO `cats`
-VALUES 
-		("Murzik",1,1),
-        ("Nemo",2,2),
-        ("Vicont",3,1),
-        ("Zuza",4,3);
-
-SELECT `name`, `shopname`
-FROM `cats` 
-JOIN `shops`
-ON shops.id = cats.shops_id;
-
-*/
 
 -- 61. LEFT JOIN. Все значения, что были в шоп_нэйм пустыми, окажутся заполненными NULL
 
@@ -448,35 +411,27 @@ FROM product_type p_t
 RIGHT JOIN product p
 ON p.id_product_type = p_t.id;
 
--- 71. Декартово объединение
+-- 71. Декартово объединение в контексте всех возможных вариантов распределения самолетов по ангарам
 
 SELECT *
-FROM service
-JOIN specialist
-JOIN office;
+FROM Plane 
+CROSS JOIN Hangar;
 
--- 72. Стоблцы используются только 1 раз
-
-SELECT *
-FROM specialist
-NATURAL JOIN department;
-
--- 73. То же самое
+-- 72. Сопоставим таблицы "Ремонтная станция"-"Авиамеаники", чтобы убедиться, что все станции уокмплектованы
 
 SELECT *
-FROM `action`
-NATURAL JOIN action_type;
+FROM Aircraft_Mechanic 
+FULL JOIN  Repair_Station
+ON Aircraft_Mechanic.id_Repair_Station = Repair_Station.id;
+
+-- 73. То же самое, только по пассажирам и билетам
+
+SELECT *
+FROM Ticket 
+FULL JOIN  Passenger
+ON Ticket.id_Passenger = Passenger.id;
+
 -- GROUP BY, ORDER BY, HAVING 
-
-
-
-
-
-
-
-
-
-
 -- 74. Сумиируем зарплаты пилотов по их званиям
 
 SELECT `Rank`, SUM(Salary) AS Sum_Salary
@@ -631,7 +586,11 @@ SELECT *,
 LENGTH(Название) as length 
 FROM Airport;
 
--- 98.  Найти поломку самолета
+-- 98.  Переведем все военные грузы в гражданские
+
+SELECT *, 
+REPLACE(`Назначение`, 'Военное', 'Гражданское') as `text`
+FROM Cargo; 
 
 
 -- 99. Сократим названия производителей самолетов до первых трех букв
