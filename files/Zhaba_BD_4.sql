@@ -337,52 +337,53 @@ LEFT JOIN Air_Marshal A
 ON F.id_Air_Marshal=A.id
 WHERE ФИО = "Борис Хренпопадёшь Бритва";
 
--- 60. Выведем всех котиков по магазитнам по id. Пример с котами нагляднее :)
+-- 60. Вывести вес каждого багажа по номерам билетов пассажиров
+
+SELECT `Вес`, `Номер`
+FROM `Luggage` 
+left JOIN `Ticket`
+ON Ticket.id = Luggage.id_Ticket;
+
+-- 61. Вывести данные в формате "номер билета-паспортные данные пассажира"
+
+SELECT `Номер`, `Паспортные данные`
+FROM `Ticket` 
+INNER JOIN `Passenger`
+ON Passenger.id = Ticket.id_Passenger;
+
+-- 62. Заполнит левую таблицу пустыми значениями, если они имеются
+
+SELECT `Номер Рейса`, `ФИО`
+FROM `Flight` 
+RIGHT JOIN `Air_Marshal`
+ON Air_Marshal.id = Flight.id_Air_Marshal;
+
+-- 63.  То же самое, только с маршалами и рейсами
 
 
--- 61. LEFT JOIN. Все значения, что были в шоп_нэйм пустыми, окажутся заполненными NULL
-
-INSERT INTO `cats` VALUES ("Reks", 6, NULL );
-
-SELECT `name`, `shopname`
-FROM `cats` 
-left JOIN `shops`
-ON shops.id = cats.shops_id;
-
--- 62. Вывести все значения , НО без Рекса (NULL)
-
-SELECT `name`, `shopname`
-FROM `cats` 
-inner JOIN `shops`
-ON shops.id = cats.shops_id;
-
--- 63.  Заполнит левую таблицу пустыми значениями, если они имеются
-
-INSERT INTO `cats` VALUES ("",8, 4);
-
-SELECT `name`, `shopname`
-FROM `cats` 
-RIGHT JOIN `shops`
-ON shops.id = cats.shops_id;
+SELECT *
+FROM `Aircraft_Mechanic` 
+RIGHT JOIN `Repair_Station`
+ON Repair_Station.id = Aircraft_Mechanic.id_Repair_Station;
 
 -- 64. IINER JOIN и CROSS JOIN в mysql одинаковые (такой же рузультат, что и в №62)
 
-SELECT `name`, `shopname`
-FROM `cats` 
-CROSS JOIN `shops`
-ON shops.id = cats.shops_id;
+SELECT `Номер`, `Паспортные данные`
+FROM `Ticket` 
+CROSS JOIN `Passenger`
+ON Passenger.id = Ticket.id_Passenger;
 
--- 65. "Декартово объединение" таблиц
+-- 65. "Декартово объединение" таблиц "Пассажир" и "Билет"
 
-SELECT *from specialist
-JOIN department
-JOIN office
-JOIN department_type;
+SELECT *
+from Ticket
+JOIN Passenger;
 
--- 66. Одинаковые таблицы 1 раз появляются
+-- 66. Natural Join для самолета и ангара
 
-SELECT *from specialist
-NATURAL JOIN department;
+SELECT *
+from Plane
+NATURAL JOIN Hangar;
 
 -- 67. Выведем авиамехаников, которые работыаю на первой ремонтной станции
 
@@ -394,22 +395,25 @@ WHERE id = 1;
 
 -- 68. Отобразим информацию пилотах и рейсах
 
-SELECT *FROM Pilot
+SELECT *
+FROM Pilot
 JOIN Flight;
 
--- 69. Выведем по ID всех продуктов их типы
+-- 69. Выведем все самолеты в рейсах, которые нужно посадить прямо сейчас (критично для текущего рейса)
 
-SELECT connection_date
-FROM product p
-JOIN product_type p_t
-ON p.id_product_type=p_t.id;
+SELECT *
+FROM Breakdown B
+INNER JOIN Flight F
+ON B.id_Flight=F.id
+WHERE `Критично для текущего рейса?` = 1;
 
--- 70. Тип продукта и его имя по ID
+-- 70. Выведем все легальные к перевозке грузы
 
-SELECT `name` 
-FROM product_type p_t
-RIGHT JOIN product p
-ON p.id_product_type = p_t.id;
+SELECT *
+FROM Cargo C
+RIGHT JOIN Flight F
+ON C.id_Flight = F.id
+WHERE `Легальность` = 1;
 
 -- 71. Декартово объединение в контексте всех возможных вариантов распределения самолетов по ангарам
 
