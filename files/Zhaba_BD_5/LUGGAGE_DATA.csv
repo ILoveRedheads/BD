@@ -1,0 +1,1001 @@
+id,Назначение,Размер,Вес,Легальность,Содержимое,Хрупкость,id_Ticket
+1,Военное,in,21,1,Nam dui.,1,1
+2,Гражданское,posuere cubilia curae,44,1,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",1,2
+3,Военное,venenatis tristique,6,1,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",1,3
+4,Военное,nec condimentum,5,1,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,1,4
+5,Военное,vestibulum sagittis sapien cum,35,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",0,5
+6,Военное,convallis,21,0,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,1,6
+7,Военное,quisque erat eros,39,0,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,1,7
+8,Гражданское,diam cras,6,0,Fusce consequat.,0,8
+9,Военное,tempus semper est,46,1,In congue. Etiam justo.,0,9
+10,Гражданское,velit vivamus vel,33,1,Morbi a ipsum.,0,10
+11,Гражданское,nisi vulputate nonummy maecenas,45,1,Nullam varius.,0,11
+12,Военное,leo pellentesque ultrices,39,1,Integer ac leo.,1,12
+13,Военное,ultrices,41,0,Aliquam erat volutpat.,1,13
+14,Военное,purus sit,43,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",1,14
+15,Военное,ultrices enim lorem ipsum,48,1,Cras pellentesque volutpat dui.,1,15
+16,Гражданское,tristique,38,1,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,0,16
+17,Военное,facilisi cras non,20,1,Etiam faucibus cursus urna. Ut tellus.,1,17
+18,Военное,luctus rutrum nulla tellus,5,1,Proin eu mi. Nulla ac enim.,0,18
+19,Гражданское,ultrices posuere,29,1,Fusce posuere felis sed lacus.,0,19
+20,Военное,montes nascetur,24,0,Donec vitae nisi.,1,20
+21,Военное,in,30,0,Proin eu mi.,1,21
+22,Военное,amet consectetuer adipiscing,11,0,Aenean auctor gravida sem.,1,22
+23,Военное,convallis morbi odio,46,1,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,1,23
+24,Военное,leo pellentesque,12,0,Duis at velit eu est congue elementum.,0,24
+25,Военное,amet lobortis,25,0,In congue.,1,25
+26,Военное,ipsum praesent blandit,40,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",1,26
+27,Гражданское,urna pretium,5,1,Quisque porta volutpat erat.,0,27
+28,Военное,integer non velit donec,15,1,Donec posuere metus vitae ipsum.,0,28
+29,Гражданское,ut,12,0,Nullam porttitor lacus at turpis.,1,29
+30,Военное,posuere metus vitae ipsum,15,1,Aenean sit amet justo.,0,30
+31,Военное,erat tortor sollicitudin mi,4,1,Nulla nisl. Nunc nisl.,1,31
+32,Военное,sapien cum sociis natoque,10,0,Morbi quis tortor id nulla ultrices aliquet.,1,32
+33,Гражданское,pede venenatis non,30,1,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,1,33
+34,Гражданское,in felis eu,26,1,Duis bibendum.,0,34
+35,Военное,magna bibendum imperdiet nullam,6,0,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,1,35
+36,Гражданское,in consequat,5,0,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,0,36
+37,Военное,eleifend quam,42,0,Cras pellentesque volutpat dui.,0,37
+38,Военное,lacinia nisi venenatis tristique,6,1,Etiam pretium iaculis justo.,1,38
+39,Военное,fusce consequat,18,0,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,1,39
+40,Военное,aliquam quis turpis,13,1,In hac habitasse platea dictumst.,0,40
+41,Гражданское,porttitor,22,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,41
+42,Военное,fusce congue,36,1,In eleifend quam a odio.,1,42
+43,Военное,in faucibus,37,0,Donec semper sapien a libero. Nam dui.,1,43
+44,Гражданское,odio odio elementum,2,1,Morbi quis tortor id nulla ultrices aliquet.,0,44
+45,Гражданское,volutpat,13,1,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",1,45
+46,Военное,malesuada,11,0,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,46
+47,Гражданское,sed nisl nunc,36,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",0,47
+48,Гражданское,integer pede justo,18,0,Nam tristique tortor eu pede.,0,48
+49,Военное,lectus,8,1,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,0,49
+50,Гражданское,erat id mauris vulputate,46,1,Phasellus in felis.,0,50
+51,Гражданское,primis in,49,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",0,51
+52,Гражданское,pede lobortis ligula,27,1,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,0,52
+53,Гражданское,duis ac nibh,23,0,Aliquam quis turpis eget elit sodales scelerisque.,1,53
+54,Гражданское,sed lacus,11,0,Nulla ut erat id mauris vulputate elementum. Nullam varius.,0,54
+55,Военное,porta,8,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,55
+56,Гражданское,massa,49,1,Nullam porttitor lacus at turpis.,1,56
+57,Военное,vehicula,13,1,Mauris lacinia sapien quis libero.,0,57
+58,Военное,ut,47,1,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,0,58
+59,Военное,purus,22,1,Pellentesque ultrices mattis odio. Donec vitae nisi.,1,59
+60,Военное,id lobortis convallis,26,0,Maecenas pulvinar lobortis est.,0,60
+61,Гражданское,in hac,13,0,Phasellus id sapien in sapien iaculis congue.,1,61
+62,Гражданское,est donec,43,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",0,62
+63,Гражданское,at,19,1,Fusce posuere felis sed lacus.,1,63
+64,Гражданское,neque,30,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,0,64
+65,Гражданское,justo,23,1,In hac habitasse platea dictumst.,1,65
+66,Военное,augue,33,1,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,1,66
+67,Военное,nam,29,0,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",1,67
+68,Военное,est,21,1,Vestibulum sed magna at nunc commodo placerat.,1,68
+69,Военное,in,48,0,Pellentesque viverra pede ac diam.,1,69
+70,Гражданское,lobortis convallis tortor,42,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,70
+71,Военное,luctus,21,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",0,71
+72,Гражданское,vitae nisl aenean lectus,33,0,Morbi vel lectus in quam fringilla rhoncus.,1,72
+73,Военное,ante vel ipsum praesent,7,0,Vivamus vestibulum sagittis sapien.,1,73
+74,Военное,ridiculus mus vivamus,31,1,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,1,74
+75,Гражданское,dapibus at diam nam,29,0,Quisque ut erat. Curabitur gravida nisi at nibh.,0,75
+76,Военное,sapien,48,0,Integer non velit.,0,76
+77,Военное,lobortis convallis tortor risus,49,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",1,77
+78,Военное,ut dolor morbi vel,50,0,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",1,78
+79,Гражданское,in magna,16,1,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,79
+80,Военное,vel ipsum praesent,34,1,Vivamus vel nulla eget eros elementum pellentesque.,0,80
+81,Военное,volutpat quam pede,19,0,Proin risus. Praesent lectus.,1,81
+82,Военное,odio odio elementum eu,13,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",0,82
+83,Военное,pellentesque volutpat dui maecenas,40,0,Pellentesque eget nunc.,1,83
+84,Гражданское,in,24,0,Phasellus in felis.,0,84
+85,Гражданское,nulla,34,0,Etiam pretium iaculis justo.,0,85
+86,Гражданское,odio curabitur convallis,29,1,Proin eu mi.,0,86
+87,Военное,ac tellus,41,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,87
+88,Гражданское,libero,16,0,Phasellus in felis. Donec semper sapien a libero.,1,88
+89,Гражданское,id turpis,44,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",0,89
+90,Военное,nulla,28,1,In sagittis dui vel nisl.,1,90
+91,Гражданское,morbi non quam nec,30,0,Morbi quis tortor id nulla ultrices aliquet.,0,91
+92,Военное,convallis,45,1,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,1,92
+93,Гражданское,interdum mauris non ligula,3,1,Proin risus. Praesent lectus.,0,93
+94,Гражданское,ac est lacinia nisi,34,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",1,94
+95,Военное,fusce congue diam,25,0,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,95
+96,Гражданское,cras,38,0,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,96
+97,Гражданское,placerat praesent blandit nam,22,1,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,1,97
+98,Гражданское,quis tortor id,45,0,Nulla suscipit ligula in lacus.,1,98
+99,Военное,id turpis,7,0,Nulla tellus. In sagittis dui vel nisl.,0,99
+100,Гражданское,posuere cubilia curae,21,0,Donec posuere metus vitae ipsum.,1,100
+101,Военное,nulla,18,1,Morbi non quam nec dui luctus rutrum.,0,101
+102,Гражданское,convallis duis,5,0,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",1,102
+103,Военное,proin risus praesent,6,0,Proin interdum mauris non ligula pellentesque ultrices.,1,103
+104,Гражданское,rutrum neque aenean,23,1,Maecenas ut massa quis augue luctus tincidunt.,0,104
+105,Гражданское,in,23,0,Morbi porttitor lorem id ligula.,0,105
+106,Военное,ligula in lacus curabitur,38,0,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,1,106
+107,Гражданское,in libero,16,1,Aliquam erat volutpat.,0,107
+108,Военное,id nisl venenatis,4,0,Integer ac neque. Duis bibendum.,1,108
+109,Военное,habitasse platea dictumst morbi,36,1,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",1,109
+110,Гражданское,purus eu,39,1,Mauris lacinia sapien quis libero.,1,110
+111,Гражданское,arcu,24,0,Aenean sit amet justo.,0,111
+112,Гражданское,volutpat,11,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,112
+113,Военное,morbi sem,15,1,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",0,113
+114,Военное,vitae nisi,9,1,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,1,114
+115,Гражданское,sed vestibulum sit,49,0,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,0,115
+116,Гражданское,vel est donec odio,50,0,Nullam molestie nibh in lectus. Pellentesque at nulla.,1,116
+117,Гражданское,pede libero,2,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",0,117
+118,Военное,ante vel,36,1,Morbi quis tortor id nulla ultrices aliquet.,1,118
+119,Военное,praesent blandit lacinia erat,42,1,Pellentesque ultrices mattis odio. Donec vitae nisi.,1,119
+120,Военное,in porttitor pede,1,1,Proin at turpis a pede posuere nonummy.,1,120
+121,Военное,sit amet eleifend pede,31,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",1,121
+122,Военное,est,48,1,Etiam faucibus cursus urna. Ut tellus.,1,122
+123,Военное,est congue,33,0,In quis justo. Maecenas rhoncus aliquam lacus.,0,123
+124,Военное,praesent,49,1,Suspendisse potenti. In eleifend quam a odio.,0,124
+125,Гражданское,amet eros,28,0,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,1,125
+126,Военное,ante nulla justo,9,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,0,126
+127,Гражданское,bibendum morbi non,40,0,Vivamus vel nulla eget eros elementum pellentesque.,1,127
+128,Гражданское,ac leo,6,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",0,128
+129,Военное,vel accumsan tellus,15,0,Cras pellentesque volutpat dui.,0,129
+130,Гражданское,nulla dapibus dolor,2,0,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,0,130
+131,Гражданское,convallis,1,1,Donec ut dolor.,0,131
+132,Военное,viverra dapibus,42,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,0,132
+133,Военное,venenatis non sodales,13,0,Nulla justo.,1,133
+134,Военное,ac tellus semper interdum,42,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",0,134
+135,Военное,cras,31,0,Ut tellus. Nulla ut erat id mauris vulputate elementum.,1,135
+136,Гражданское,massa id lobortis,29,0,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",0,136
+137,Военное,ipsum dolor sit amet,5,0,In hac habitasse platea dictumst.,0,137
+138,Военное,nibh ligula,45,1,Praesent lectus.,1,138
+139,Гражданское,id nisl venenatis lacinia,41,1,Nunc purus.,0,139
+140,Военное,varius integer ac leo,34,0,Fusce consequat.,0,140
+141,Гражданское,libero,31,1,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,0,141
+142,Военное,nisl duis bibendum felis,36,1,Nullam molestie nibh in lectus. Pellentesque at nulla.,0,142
+143,Военное,vel enim sit,42,0,Suspendisse potenti. Nullam porttitor lacus at turpis.,0,143
+144,Военное,id lobortis convallis,1,1,Nulla ut erat id mauris vulputate elementum. Nullam varius.,0,144
+145,Гражданское,magnis dis,19,0,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",1,145
+146,Военное,non pretium,5,1,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,0,146
+147,Военное,justo,38,1,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,0,147
+148,Гражданское,purus aliquet at feugiat,39,0,Nulla mollis molestie lorem.,1,148
+149,Военное,maecenas rhoncus,47,1,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,1,149
+150,Гражданское,pede posuere,46,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",1,150
+151,Гражданское,at,34,1,Donec posuere metus vitae ipsum. Aliquam non mauris.,0,151
+152,Военное,nullam varius nulla,27,0,Donec ut mauris eget massa tempor convallis.,0,152
+153,Гражданское,nulla,3,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",1,153
+154,Военное,bibendum imperdiet nullam orci,12,1,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",1,154
+155,Гражданское,eu,7,1,Phasellus in felis.,0,155
+156,Гражданское,massa donec dapibus duis,35,1,Integer non velit.,1,156
+157,Гражданское,in faucibus,10,1,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,1,157
+158,Военное,eros,2,0,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,1,158
+159,Гражданское,vestibulum sed magna,38,1,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,0,159
+160,Военное,eu mi nulla ac,21,0,Proin eu mi.,1,160
+161,Военное,vel,7,0,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",0,161
+162,Военное,pretium iaculis,6,0,Nunc nisl.,1,162
+163,Военное,at lorem,7,0,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,163
+164,Военное,curabitur convallis duis,20,1,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,1,164
+165,Военное,sit amet cursus id,16,0,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",0,165
+166,Гражданское,vel,40,0,Cras in purus eu magna vulputate luctus.,0,166
+167,Гражданское,mattis pulvinar,18,1,Pellentesque at nulla.,1,167
+168,Гражданское,lorem id,35,1,Nulla mollis molestie lorem.,0,168
+169,Военное,pretium,38,0,In quis justo. Maecenas rhoncus aliquam lacus.,1,169
+170,Гражданское,ut,8,0,Aliquam non mauris. Morbi non lectus.,1,170
+171,Гражданское,sed nisl,27,0,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,0,171
+172,Гражданское,luctus,22,1,Integer ac leo.,0,172
+173,Военное,nisi,15,0,Fusce consequat. Nulla nisl.,0,173
+174,Военное,nunc purus phasellus in,34,0,Aenean lectus.,1,174
+175,Военное,integer a nibh,37,1,Suspendisse accumsan tortor quis turpis.,0,175
+176,Гражданское,vel pede,35,1,Mauris sit amet eros.,0,176
+177,Гражданское,proin eu mi nulla,31,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",1,177
+178,Военное,enim sit amet nunc,43,0,Aliquam quis turpis eget elit sodales scelerisque.,0,178
+179,Военное,consequat,29,1,Proin risus. Praesent lectus.,0,179
+180,Военное,cursus,19,1,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,0,180
+181,Гражданское,morbi vestibulum velit id,36,0,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",1,181
+182,Гражданское,et ultrices posuere,16,1,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,1,182
+183,Гражданское,orci eget orci,3,0,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",0,183
+184,Военное,nonummy,39,0,Nulla ac enim.,1,184
+185,Военное,a pede posuere,12,0,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,1,185
+186,Военное,nulla elit,41,0,Morbi a ipsum.,1,186
+187,Военное,nam,27,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",0,187
+188,Военное,libero,25,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,188
+189,Гражданское,ultricies,16,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",0,189
+190,Военное,nulla pede ullamcorper,11,0,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",1,190
+191,Гражданское,felis,18,0,Ut at dolor quis odio consequat varius. Integer ac leo.,0,191
+192,Гражданское,venenatis,19,1,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",1,192
+193,Военное,duis faucibus,1,1,Integer ac leo.,1,193
+194,Военное,justo nec,45,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,194
+195,Гражданское,consequat morbi a ipsum,30,1,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,1,195
+196,Гражданское,natoque,27,0,Duis consequat dui nec nisi volutpat eleifend.,1,196
+197,Гражданское,sed ante vivamus,12,0,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,197
+198,Военное,donec vitae,39,0,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,198
+199,Гражданское,non quam nec dui,9,1,Suspendisse accumsan tortor quis turpis. Sed ante.,0,199
+200,Гражданское,lacus,34,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",1,200
+201,Военное,ullamcorper purus sit amet,9,1,Curabitur in libero ut massa volutpat convallis.,0,201
+202,Гражданское,fusce posuere,41,0,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,202
+203,Военное,quis,26,1,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",0,203
+204,Военное,in hac habitasse platea,16,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",1,204
+205,Военное,pharetra magna,13,1,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",1,205
+206,Гражданское,ultrices posuere cubilia curae,31,1,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",1,206
+207,Военное,nibh,17,1,Fusce consequat. Nulla nisl.,1,207
+208,Военное,dapibus dolor,23,0,Mauris ullamcorper purus sit amet nulla.,0,208
+209,Гражданское,tellus in,45,0,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",1,209
+210,Гражданское,lectus pellentesque eget,44,1,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",1,210
+211,Военное,pellentesque volutpat dui maecenas,38,0,Praesent blandit.,0,211
+212,Военное,nec molestie sed,4,0,Nam nulla.,1,212
+213,Гражданское,eget tincidunt,42,0,Nulla nisl. Nunc nisl.,1,213
+214,Гражданское,tristique est et tempus,46,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",0,214
+215,Военное,nulla tellus,45,1,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,1,215
+216,Гражданское,lectus,35,1,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,216
+217,Гражданское,ante ipsum primis,19,1,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,1,217
+218,Гражданское,sed sagittis nam,21,0,Ut tellus. Nulla ut erat id mauris vulputate elementum.,1,218
+219,Военное,justo lacinia eget tincidunt,28,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,219
+220,Гражданское,ipsum primis in faucibus,20,1,In hac habitasse platea dictumst.,0,220
+221,Гражданское,leo,29,0,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",1,221
+222,Военное,luctus nec molestie sed,40,1,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",1,222
+223,Военное,sed vel,6,1,Praesent blandit. Nam nulla.,1,223
+224,Гражданское,pellentesque ultrices,46,1,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,0,224
+225,Военное,lectus in quam fringilla,37,0,Praesent blandit.,0,225
+226,Гражданское,tristique fusce congue diam,4,0,Quisque id justo sit amet sapien dignissim vestibulum.,0,226
+227,Военное,ut odio,33,0,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",1,227
+228,Военное,ligula in lacus curabitur,3,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",0,228
+229,Военное,duis mattis egestas,16,0,Phasellus sit amet erat. Nulla tempus.,1,229
+230,Военное,integer non,49,0,Nulla ut erat id mauris vulputate elementum.,0,230
+231,Военное,in sagittis dui vel,26,1,In eleifend quam a odio. In hac habitasse platea dictumst.,0,231
+232,Гражданское,sociis natoque penatibus,1,0,In eleifend quam a odio.,1,232
+233,Военное,ac diam cras pellentesque,12,0,Nulla suscipit ligula in lacus.,0,233
+234,Военное,a libero nam,27,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",0,234
+235,Гражданское,suscipit,33,1,Suspendisse potenti.,1,235
+236,Гражданское,in hac habitasse platea,17,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,236
+237,Военное,sed justo,24,0,In quis justo.,0,237
+238,Военное,sapien cum,48,1,Nunc rhoncus dui vel sem. Sed sagittis.,1,238
+239,Гражданское,morbi non lectus aliquam,18,0,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",1,239
+240,Военное,arcu libero rutrum ac,35,0,In blandit ultrices enim.,0,240
+241,Гражданское,accumsan felis,11,1,Proin risus.,0,241
+242,Военное,curabitur in libero,11,1,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,1,242
+243,Гражданское,magna vestibulum aliquet,21,1,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,1,243
+244,Военное,vivamus in felis eu,44,0,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",1,244
+245,Военное,orci mauris,13,0,Nulla mollis molestie lorem. Quisque ut erat.,0,245
+246,Гражданское,neque vestibulum eget,30,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,246
+247,Военное,eu felis fusce,13,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",0,247
+248,Гражданское,gravida sem,35,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",0,248
+249,Гражданское,aliquet at,37,1,Integer non velit.,1,249
+250,Гражданское,condimentum neque,21,1,In sagittis dui vel nisl. Duis ac nibh.,0,250
+251,Гражданское,sem,20,1,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",1,251
+252,Гражданское,ut tellus nulla,43,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",0,252
+253,Военное,ante nulla justo aliquam,17,1,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,1,253
+254,Военное,porttitor,37,1,Pellentesque viverra pede ac diam.,1,254
+255,Гражданское,in,8,0,Curabitur gravida nisi at nibh.,1,255
+256,Военное,vulputate elementum,45,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,256
+257,Военное,fusce consequat nulla nisl,21,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,257
+258,Военное,convallis,2,1,In eleifend quam a odio. In hac habitasse platea dictumst.,0,258
+259,Военное,sit,23,0,Ut tellus. Nulla ut erat id mauris vulputate elementum.,0,259
+260,Гражданское,dolor quis odio,34,1,Integer a nibh.,1,260
+261,Гражданское,in,50,1,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,1,261
+262,Гражданское,pellentesque,21,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",0,262
+263,Военное,aliquam sit amet diam,3,0,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",1,263
+264,Военное,pulvinar nulla pede,39,0,Morbi porttitor lorem id ligula.,1,264
+265,Военное,sapien placerat ante nulla,47,0,Integer a nibh.,1,265
+266,Гражданское,neque,7,0,Proin at turpis a pede posuere nonummy. Integer non velit.,1,266
+267,Гражданское,pulvinar sed nisl,21,1,Proin risus. Praesent lectus.,0,267
+268,Гражданское,ut ultrices,44,1,Nunc nisl.,1,268
+269,Военное,eu,36,0,Integer ac neque.,0,269
+270,Военное,eleifend,24,1,Maecenas ut massa quis augue luctus tincidunt.,1,270
+271,Военное,purus eu,9,1,Quisque porta volutpat erat.,0,271
+272,Военное,integer a nibh in,32,0,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",0,272
+273,Гражданское,curae donec pharetra magna,14,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",0,273
+274,Военное,quam,9,0,Nulla ac enim.,0,274
+275,Гражданское,quam sollicitudin,19,1,Integer a nibh.,0,275
+276,Гражданское,dis parturient,40,0,Integer a nibh.,1,276
+277,Военное,sed nisl nunc,16,0,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,277
+278,Военное,molestie sed,44,0,Donec vitae nisi.,1,278
+279,Военное,pretium quis lectus,46,0,Pellentesque at nulla.,1,279
+280,Военное,eu est congue,48,0,Pellentesque ultrices mattis odio. Donec vitae nisi.,0,280
+281,Военное,vestibulum vestibulum,34,0,Donec semper sapien a libero.,0,281
+282,Военное,ante ipsum,48,1,Etiam faucibus cursus urna.,0,282
+283,Гражданское,rutrum,4,0,Proin risus.,1,283
+284,Гражданское,bibendum,43,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",0,284
+285,Военное,hac habitasse,20,0,Praesent lectus.,0,285
+286,Гражданское,faucibus orci luctus,29,1,Nulla nisl. Nunc nisl.,1,286
+287,Гражданское,in,10,1,In hac habitasse platea dictumst.,1,287
+288,Гражданское,sed interdum,48,1,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,0,288
+289,Военное,donec,46,1,Fusce consequat.,0,289
+290,Гражданское,in lacus curabitur,1,1,Integer non velit.,0,290
+291,Гражданское,non,12,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,291
+292,Военное,accumsan tortor,46,0,Proin eu mi.,0,292
+293,Гражданское,odio donec vitae,22,1,Suspendisse ornare consequat lectus.,0,293
+294,Гражданское,sit amet consectetuer adipiscing,35,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",0,294
+295,Военное,augue,46,1,Donec vitae nisi.,1,295
+296,Военное,dolor,1,1,Mauris ullamcorper purus sit amet nulla.,1,296
+297,Гражданское,nam,41,1,Morbi ut odio.,1,297
+298,Военное,curabitur in libero,46,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",0,298
+299,Гражданское,ut odio cras mi,10,1,Integer non velit.,0,299
+300,Военное,vestibulum velit id pretium,41,1,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,0,300
+301,Гражданское,nisl ut volutpat,47,1,Pellentesque at nulla. Suspendisse potenti.,0,301
+302,Военное,diam cras pellentesque volutpat,28,1,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,0,302
+303,Военное,molestie hendrerit at,26,0,Aliquam sit amet diam in magna bibendum imperdiet.,0,303
+304,Военное,neque sapien,3,1,In sagittis dui vel nisl. Duis ac nibh.,1,304
+305,Военное,felis,45,0,Integer ac neque.,0,305
+306,Гражданское,aenean fermentum,35,1,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",0,306
+307,Военное,tempus sit amet sem,18,0,Proin eu mi.,1,307
+308,Гражданское,elementum pellentesque quisque porta,18,0,Vivamus tortor.,0,308
+309,Гражданское,amet,24,0,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,0,309
+310,Военное,vestibulum aliquet ultrices erat,32,0,Sed vel enim sit amet nunc viverra dapibus.,1,310
+311,Военное,sapien cursus,29,0,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",0,311
+312,Гражданское,primis in,1,0,Nulla mollis molestie lorem. Quisque ut erat.,1,312
+313,Гражданское,et,18,1,In blandit ultrices enim.,0,313
+314,Военное,et,33,1,Donec dapibus. Duis at velit eu est congue elementum.,1,314
+315,Военное,eget nunc donec,39,1,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,0,315
+316,Гражданское,platea dictumst maecenas ut,7,1,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,1,316
+317,Военное,iaculis justo in hac,43,1,Ut tellus. Nulla ut erat id mauris vulputate elementum.,1,317
+318,Военное,amet sem fusce,44,0,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",1,318
+319,Гражданское,varius nulla facilisi cras,37,0,Nulla suscipit ligula in lacus.,0,319
+320,Гражданское,justo,4,0,Nulla ut erat id mauris vulputate elementum. Nullam varius.,1,320
+321,Военное,mauris sit,24,0,Maecenas ut massa quis augue luctus tincidunt.,0,321
+322,Гражданское,lacinia erat vestibulum sed,4,0,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,0,322
+323,Военное,hac habitasse platea dictumst,45,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",0,323
+324,Гражданское,leo pellentesque ultrices,48,0,Proin risus. Praesent lectus.,1,324
+325,Гражданское,quis justo,49,0,Aenean auctor gravida sem.,0,325
+326,Военное,quam,20,1,Etiam vel augue. Vestibulum rutrum rutrum neque.,1,326
+327,Военное,sapien dignissim vestibulum vestibulum,10,1,Sed accumsan felis.,1,327
+328,Гражданское,elementum eu interdum eu,28,0,Praesent blandit. Nam nulla.,1,328
+329,Гражданское,gravida nisi at nibh,15,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",0,329
+330,Гражданское,rutrum,1,1,Integer ac neque. Duis bibendum.,1,330
+331,Гражданское,at vulputate,29,1,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",1,331
+332,Гражданское,a,37,0,Etiam vel augue.,1,332
+333,Гражданское,at turpis,5,0,Nullam porttitor lacus at turpis.,1,333
+334,Военное,pede venenatis non sodales,42,1,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",0,334
+335,Гражданское,risus auctor sed,43,0,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,0,335
+336,Гражданское,lectus,13,0,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",1,336
+337,Гражданское,consectetuer adipiscing,27,1,Curabitur gravida nisi at nibh.,0,337
+338,Военное,vel accumsan,37,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,338
+339,Гражданское,dignissim vestibulum vestibulum,31,1,Nullam varius.,1,339
+340,Гражданское,sed augue aliquam,25,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",1,340
+341,Военное,fusce posuere felis sed,27,1,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",1,341
+342,Военное,cras in purus,34,0,Curabitur gravida nisi at nibh.,1,342
+343,Гражданское,hendrerit at vulputate,47,0,Praesent blandit. Nam nulla.,0,343
+344,Военное,in felis donec semper,6,0,In sagittis dui vel nisl.,0,344
+345,Военное,ipsum,37,0,Praesent blandit lacinia erat.,0,345
+346,Военное,ultrices posuere,48,0,Fusce posuere felis sed lacus.,1,346
+347,Гражданское,maecenas pulvinar lobortis,48,1,Curabitur convallis.,1,347
+348,Гражданское,odio consequat varius integer,20,0,Integer tincidunt ante vel ipsum.,1,348
+349,Военное,lobortis est phasellus,40,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",0,349
+350,Военное,lobortis est,30,1,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,350
+351,Военное,id justo sit amet,23,1,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",1,351
+352,Гражданское,at,29,1,Sed accumsan felis.,0,352
+353,Гражданское,montes,22,1,Sed accumsan felis. Ut at dolor quis odio consequat varius.,1,353
+354,Гражданское,lacus morbi,35,0,Nulla nisl. Nunc nisl.,1,354
+355,Гражданское,lobortis est phasellus sit,37,0,Morbi a ipsum.,1,355
+356,Военное,ante vivamus tortor,48,1,Nunc purus. Phasellus in felis.,0,356
+357,Гражданское,venenatis tristique fusce,4,1,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,0,357
+358,Гражданское,in tempor,41,1,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",1,358
+359,Военное,in felis donec,9,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",0,359
+360,Военное,gravida sem praesent id,32,0,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,1,360
+361,Гражданское,sed tincidunt,46,0,In hac habitasse platea dictumst.,1,361
+362,Гражданское,eu mi nulla ac,5,0,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",1,362
+363,Гражданское,morbi quis,29,0,Pellentesque ultrices mattis odio.,0,363
+364,Гражданское,porttitor lorem,40,1,Praesent lectus.,0,364
+365,Военное,iaculis congue vivamus metus,32,0,Vivamus tortor. Duis mattis egestas metus.,0,365
+366,Гражданское,nulla ultrices aliquet maecenas,31,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",0,366
+367,Гражданское,volutpat,41,0,Donec ut dolor.,1,367
+368,Гражданское,urna ut tellus,18,0,Pellentesque ultrices mattis odio.,0,368
+369,Военное,leo,21,0,Curabitur at ipsum ac tellus semper interdum.,1,369
+370,Гражданское,at ipsum ac tellus,30,1,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",1,370
+371,Военное,semper porta volutpat,26,0,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",0,371
+372,Военное,quisque porta,14,1,Curabitur gravida nisi at nibh.,1,372
+373,Военное,mi,18,1,In hac habitasse platea dictumst.,0,373
+374,Военное,massa quis,15,1,Donec dapibus. Duis at velit eu est congue elementum.,0,374
+375,Гражданское,in imperdiet et commodo,45,1,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,0,375
+376,Военное,in consequat ut nulla,42,0,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,1,376
+377,Гражданское,nulla tempus vivamus in,39,1,In quis justo. Maecenas rhoncus aliquam lacus.,0,377
+378,Военное,sit amet consectetuer adipiscing,49,0,Aenean sit amet justo. Morbi ut odio.,1,378
+379,Гражданское,luctus cum sociis natoque,38,0,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",0,379
+380,Гражданское,tempus,19,1,Aliquam erat volutpat. In congue.,0,380
+381,Военное,elementum,9,0,Nam nulla.,1,381
+382,Военное,diam neque,32,1,Nulla ut erat id mauris vulputate elementum. Nullam varius.,1,382
+383,Гражданское,vestibulum eget vulputate,13,0,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",1,383
+384,Гражданское,orci luctus et,17,0,In sagittis dui vel nisl.,0,384
+385,Военное,cursus urna ut,24,1,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",1,385
+386,Гражданское,enim leo rhoncus sed,16,1,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,1,386
+387,Военное,rutrum,46,1,Sed ante.,0,387
+388,Военное,aenean sit amet,39,0,Sed sagittis.,1,388
+389,Гражданское,urna pretium nisl,22,1,Maecenas pulvinar lobortis est.,1,389
+390,Военное,scelerisque quam turpis adipiscing,25,1,Integer ac leo.,1,390
+391,Военное,fermentum justo,19,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",0,391
+392,Гражданское,pharetra magna ac,16,1,Proin interdum mauris non ligula pellentesque ultrices.,0,392
+393,Военное,justo,48,0,Praesent blandit. Nam nulla.,1,393
+394,Гражданское,vel ipsum,24,1,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,1,394
+395,Гражданское,varius integer ac leo,16,0,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,1,395
+396,Военное,sollicitudin,45,1,Curabitur at ipsum ac tellus semper interdum.,1,396
+397,Гражданское,venenatis tristique,34,0,In quis justo.,0,397
+398,Военное,dolor,13,0,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",0,398
+399,Гражданское,eget vulputate ut,41,0,In hac habitasse platea dictumst.,1,399
+400,Военное,at diam,36,1,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",1,400
+401,Гражданское,nisl venenatis lacinia aenean,20,1,Vivamus tortor. Duis mattis egestas metus.,0,401
+402,Военное,nibh fusce,43,1,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,402
+403,Гражданское,ut blandit non,47,1,Sed accumsan felis. Ut at dolor quis odio consequat varius.,1,403
+404,Гражданское,sem sed sagittis,39,1,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,0,404
+405,Военное,potenti in,17,0,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,1,405
+406,Гражданское,nunc,4,0,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,406
+407,Военное,magna ac,6,0,Vestibulum rutrum rutrum neque.,0,407
+408,Военное,ultrices enim,41,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",0,408
+409,Военное,ultrices,25,0,Nulla facilisi.,0,409
+410,Гражданское,tortor quis turpis sed,24,1,Proin interdum mauris non ligula pellentesque ultrices.,0,410
+411,Военное,ac diam,34,1,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,0,411
+412,Гражданское,volutpat dui maecenas tristique,46,1,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,0,412
+413,Военное,in libero ut massa,38,1,Duis ac nibh.,1,413
+414,Военное,purus,27,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,414
+415,Военное,id nisl venenatis,44,1,Ut tellus. Nulla ut erat id mauris vulputate elementum.,0,415
+416,Гражданское,vestibulum aliquet,49,1,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",1,416
+417,Военное,aliquam lacus,15,0,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",0,417
+418,Гражданское,ligula sit,14,1,Proin interdum mauris non ligula pellentesque ultrices.,0,418
+419,Гражданское,duis aliquam convallis nunc,27,0,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,1,419
+420,Военное,posuere nonummy integer,23,1,Nunc purus.,0,420
+421,Гражданское,tincidunt lacus at velit,48,1,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,0,421
+422,Военное,nullam molestie,7,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",0,422
+423,Гражданское,molestie sed,26,0,In sagittis dui vel nisl.,0,423
+424,Военное,morbi vel lectus,49,0,Phasellus in felis.,0,424
+425,Гражданское,platea dictumst etiam faucibus,20,1,Nunc rhoncus dui vel sem. Sed sagittis.,1,425
+426,Военное,luctus et ultrices,26,0,Duis bibendum. Morbi non quam nec dui luctus rutrum.,1,426
+427,Военное,nulla,22,0,In hac habitasse platea dictumst.,0,427
+428,Гражданское,congue etiam,7,0,Vestibulum sed magna at nunc commodo placerat.,1,428
+429,Гражданское,ultrices erat tortor sollicitudin,9,0,Aenean lectus. Pellentesque eget nunc.,0,429
+430,Военное,quis odio consequat,19,0,Aliquam quis turpis eget elit sodales scelerisque.,0,430
+431,Военное,lacinia,2,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",1,431
+432,Военное,lacinia erat,14,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",0,432
+433,Военное,pede venenatis non,6,0,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,433
+434,Военное,primis in faucibus orci,35,0,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",0,434
+435,Гражданское,pulvinar sed nisl,2,0,Proin risus.,0,435
+436,Гражданское,erat id,30,1,Donec posuere metus vitae ipsum. Aliquam non mauris.,1,436
+437,Военное,magna vestibulum aliquet ultrices,45,1,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,437
+438,Военное,egestas,44,1,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",1,438
+439,Гражданское,maecenas,13,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,439
+440,Гражданское,vestibulum ante ipsum,31,0,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",1,440
+441,Военное,ultrices posuere cubilia,23,0,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",1,441
+442,Гражданское,lorem id ligula suspendisse,31,0,In congue. Etiam justo.,1,442
+443,Военное,ut tellus nulla ut,29,1,Nullam molestie nibh in lectus. Pellentesque at nulla.,0,443
+444,Гражданское,potenti cras in,17,0,Etiam vel augue.,0,444
+445,Военное,tempor convallis,13,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,0,445
+446,Военное,lorem integer tincidunt,13,0,Suspendisse ornare consequat lectus.,1,446
+447,Гражданское,ultricies,7,0,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",0,447
+448,Военное,sem,12,1,Proin eu mi.,1,448
+449,Гражданское,in imperdiet,14,1,Cras in purus eu magna vulputate luctus.,0,449
+450,Военное,vulputate justo,43,0,Vivamus tortor.,0,450
+451,Гражданское,volutpat eleifend donec,27,0,Morbi a ipsum. Integer a nibh.,0,451
+452,Военное,quis libero nullam,17,1,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",0,452
+453,Военное,ultrices vel,24,0,Nulla mollis molestie lorem.,1,453
+454,Гражданское,tellus,46,1,Ut tellus.,0,454
+455,Гражданское,elementum nullam varius nulla,36,0,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,455
+456,Военное,sapien non mi,12,1,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",0,456
+457,Военное,phasellus in felis donec,4,0,Nullam molestie nibh in lectus. Pellentesque at nulla.,0,457
+458,Гражданское,nullam molestie nibh in,27,1,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",0,458
+459,Военное,mattis odio donec vitae,13,0,Maecenas tincidunt lacus at velit.,0,459
+460,Гражданское,pulvinar nulla,27,0,Nulla tempus.,0,460
+461,Гражданское,molestie sed justo pellentesque,26,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",0,461
+462,Гражданское,quam nec dui luctus,8,0,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",1,462
+463,Гражданское,suspendisse accumsan tortor quis,26,1,Vivamus vestibulum sagittis sapien.,1,463
+464,Военное,quisque id justo sit,38,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",0,464
+465,Гражданское,duis bibendum morbi non,37,1,Nulla suscipit ligula in lacus.,0,465
+466,Военное,est congue,26,0,Nullam varius. Nulla facilisi.,0,466
+467,Военное,velit donec,33,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",0,467
+468,Военное,ultrices vel augue,49,0,Nulla justo.,1,468
+469,Военное,quisque id,18,1,Maecenas ut massa quis augue luctus tincidunt.,1,469
+470,Гражданское,nullam molestie,3,1,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",0,470
+471,Гражданское,augue vel accumsan,46,0,Integer tincidunt ante vel ipsum.,0,471
+472,Гражданское,aliquam sit amet,24,1,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",1,472
+473,Гражданское,habitasse,33,1,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",0,473
+474,Гражданское,ultrices aliquet maecenas leo,17,0,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",1,474
+475,Военное,mattis nibh ligula,40,1,Nulla mollis molestie lorem. Quisque ut erat.,0,475
+476,Военное,libero nullam sit amet,44,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",1,476
+477,Военное,in hac habitasse platea,24,0,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,1,477
+478,Военное,curae donec pharetra,37,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,478
+479,Гражданское,gravida sem,27,1,Nulla facilisi.,0,479
+480,Гражданское,leo odio condimentum,46,0,Morbi porttitor lorem id ligula.,0,480
+481,Военное,in,4,0,Praesent id massa id nisl venenatis lacinia.,1,481
+482,Военное,mauris laoreet ut,49,0,Vivamus in felis eu sapien cursus vestibulum.,1,482
+483,Гражданское,amet justo,24,0,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,483
+484,Гражданское,semper,3,0,Proin interdum mauris non ligula pellentesque ultrices.,1,484
+485,Военное,vestibulum quam sapien varius,38,1,Maecenas tincidunt lacus at velit.,0,485
+486,Военное,nascetur ridiculus,36,1,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",0,486
+487,Военное,lectus,21,1,In blandit ultrices enim.,0,487
+488,Гражданское,maecenas,5,0,Suspendisse accumsan tortor quis turpis. Sed ante.,0,488
+489,Военное,bibendum felis sed,39,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",0,489
+490,Военное,urna ut tellus nulla,47,0,Nullam porttitor lacus at turpis.,0,490
+491,Гражданское,luctus,21,1,Morbi non lectus.,0,491
+492,Гражданское,habitasse platea dictumst aliquam,24,1,Vivamus vestibulum sagittis sapien.,1,492
+493,Военное,nulla mollis molestie lorem,23,1,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",0,493
+494,Военное,vulputate nonummy,39,0,Donec ut dolor.,0,494
+495,Гражданское,at velit vivamus vel,27,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,495
+496,Военное,risus auctor,44,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,496
+497,Военное,aliquet ultrices,50,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,0,497
+498,Гражданское,mauris,4,1,Phasellus id sapien in sapien iaculis congue.,1,498
+499,Военное,lectus in est,30,0,Nullam molestie nibh in lectus. Pellentesque at nulla.,0,499
+500,Гражданское,sapien iaculis congue vivamus,4,1,Morbi vel lectus in quam fringilla rhoncus.,0,500
+501,Военное,consectetuer,47,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",0,501
+502,Гражданское,augue vestibulum,2,1,In hac habitasse platea dictumst.,1,502
+503,Военное,augue quam,22,0,Curabitur gravida nisi at nibh.,0,503
+504,Военное,ut blandit non interdum,2,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,0,504
+505,Гражданское,ultrices aliquet maecenas,17,1,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,0,505
+506,Гражданское,tincidunt ante vel ipsum,28,0,Nunc rhoncus dui vel sem. Sed sagittis.,0,506
+507,Военное,velit vivamus vel,18,0,Aliquam erat volutpat. In congue.,1,507
+508,Гражданское,eget tempus,17,0,Morbi a ipsum.,1,508
+509,Военное,posuere cubilia curae donec,37,0,Praesent id massa id nisl venenatis lacinia.,0,509
+510,Гражданское,mauris morbi,45,1,Curabitur at ipsum ac tellus semper interdum.,0,510
+511,Гражданское,in,30,0,In hac habitasse platea dictumst.,0,511
+512,Военное,lectus vestibulum quam,41,1,Proin risus. Praesent lectus.,0,512
+513,Военное,nisl,3,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",0,513
+514,Военное,venenatis lacinia aenean sit,50,1,Fusce consequat. Nulla nisl.,1,514
+515,Военное,volutpat dui maecenas,31,1,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,0,515
+516,Военное,turpis eget,8,1,Phasellus in felis.,1,516
+517,Военное,amet eleifend pede,40,1,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,0,517
+518,Гражданское,vulputate justo in,48,1,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,0,518
+519,Гражданское,cubilia curae donec,12,0,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",0,519
+520,Военное,sit amet nulla,10,1,Sed accumsan felis.,1,520
+521,Гражданское,est,5,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",1,521
+522,Гражданское,ipsum,32,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,0,522
+523,Военное,ornare,10,1,Ut tellus.,1,523
+524,Гражданское,magna bibendum,29,1,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,524
+525,Военное,lectus pellentesque eget nunc,21,0,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",1,525
+526,Военное,felis,29,0,Curabitur at ipsum ac tellus semper interdum.,1,526
+527,Военное,est,14,1,Nulla tellus.,0,527
+528,Гражданское,non interdum,13,0,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",0,528
+529,Военное,orci luctus et ultrices,2,1,Sed accumsan felis.,1,529
+530,Военное,nulla sed accumsan,3,0,Nulla tempus.,0,530
+531,Военное,magnis,45,1,Integer ac neque.,1,531
+532,Гражданское,amet,12,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,1,532
+533,Военное,semper,45,1,Etiam justo.,1,533
+534,Военное,congue diam id ornare,16,1,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,0,534
+535,Гражданское,viverra,19,0,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,1,535
+536,Военное,consequat morbi a ipsum,20,0,Suspendisse potenti. In eleifend quam a odio.,1,536
+537,Военное,bibendum imperdiet nullam,38,1,Etiam faucibus cursus urna. Ut tellus.,1,537
+538,Военное,bibendum felis sed interdum,32,0,Mauris ullamcorper purus sit amet nulla.,1,538
+539,Военное,congue vivamus metus,33,0,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,539
+540,Гражданское,dis parturient montes,28,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,540
+541,Гражданское,aenean fermentum donec ut,46,1,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,1,541
+542,Военное,fermentum justo,15,0,Curabitur gravida nisi at nibh.,1,542
+543,Гражданское,nullam sit,5,0,Curabitur gravida nisi at nibh.,1,543
+544,Военное,interdum eu tincidunt,7,1,Integer a nibh. In quis justo.,0,544
+545,Военное,ut suscipit a,32,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",1,545
+546,Военное,nunc nisl,29,1,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",1,546
+547,Гражданское,dapibus,12,1,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,0,547
+548,Военное,ut,29,0,Nam tristique tortor eu pede.,0,548
+549,Гражданское,semper rutrum nulla,47,0,Nulla ut erat id mauris vulputate elementum.,1,549
+550,Военное,lectus in,6,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,550
+551,Военное,et magnis dis,37,0,Quisque porta volutpat erat.,1,551
+552,Военное,in magna bibendum,28,1,Morbi non quam nec dui luctus rutrum.,0,552
+553,Военное,at,27,0,Suspendisse potenti.,1,553
+554,Гражданское,ullamcorper purus sit,45,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",1,554
+555,Военное,fusce lacus purus aliquet,38,1,Cras pellentesque volutpat dui.,1,555
+556,Военное,mauris non ligula,20,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",0,556
+557,Военное,viverra pede ac,5,1,Morbi non quam nec dui luctus rutrum. Nulla tellus.,1,557
+558,Военное,accumsan,3,0,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,558
+559,Гражданское,lectus pellentesque,7,1,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,1,559
+560,Военное,in quis justo maecenas,39,1,Duis at velit eu est congue elementum.,1,560
+561,Гражданское,eget,33,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",1,561
+562,Военное,mi pede malesuada in,9,1,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",1,562
+563,Военное,diam cras,50,1,Sed ante. Vivamus tortor.,0,563
+564,Военное,fringilla,21,1,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,1,564
+565,Гражданское,metus aenean fermentum donec,22,0,Integer a nibh.,1,565
+566,Гражданское,erat eros viverra,31,1,Vivamus in felis eu sapien cursus vestibulum.,1,566
+567,Гражданское,aenean,3,1,In blandit ultrices enim.,1,567
+568,Военное,a libero nam,50,1,Vivamus tortor.,1,568
+569,Гражданское,eros vestibulum,36,1,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",0,569
+570,Гражданское,et magnis dis parturient,30,0,Cras in purus eu magna vulputate luctus.,0,570
+571,Гражданское,tempus vel pede morbi,43,0,Mauris lacinia sapien quis libero.,1,571
+572,Гражданское,in faucibus orci luctus,40,0,Nullam porttitor lacus at turpis.,0,572
+573,Гражданское,pede malesuada,29,0,Nulla tellus. In sagittis dui vel nisl.,0,573
+574,Гражданское,turpis,7,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",0,574
+575,Гражданское,aliquam non mauris morbi,45,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",1,575
+576,Военное,congue,35,0,Pellentesque at nulla. Suspendisse potenti.,0,576
+577,Военное,nullam sit amet turpis,12,0,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,577
+578,Военное,quam,39,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,578
+579,Гражданское,scelerisque,49,0,Nullam molestie nibh in lectus.,1,579
+580,Военное,nunc nisl,23,0,Cras non velit nec nisi vulputate nonummy.,0,580
+581,Гражданское,ut massa quis augue,40,0,Sed accumsan felis.,0,581
+582,Гражданское,odio porttitor id,50,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,582
+583,Военное,neque,33,0,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",0,583
+584,Гражданское,semper interdum mauris ullamcorper,21,1,In hac habitasse platea dictumst.,1,584
+585,Гражданское,sodales sed,47,0,Ut tellus.,1,585
+586,Военное,metus aenean,46,0,Nulla tellus. In sagittis dui vel nisl.,1,586
+587,Военное,sapien placerat,22,1,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,587
+588,Военное,non mi,25,0,Nunc purus. Phasellus in felis.,1,588
+589,Военное,eget tempus vel pede,13,1,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,1,589
+590,Гражданское,nulla pede ullamcorper augue,13,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",1,590
+591,Военное,ante ipsum,31,0,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,0,591
+592,Гражданское,sit,41,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,0,592
+593,Гражданское,proin,45,1,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,593
+594,Гражданское,sed,42,0,Aliquam sit amet diam in magna bibendum imperdiet.,1,594
+595,Гражданское,ac,34,1,Nulla nisl.,1,595
+596,Военное,ut,41,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",1,596
+597,Военное,accumsan felis,1,0,Praesent blandit lacinia erat.,0,597
+598,Гражданское,at,8,1,Vivamus tortor.,0,598
+599,Военное,quis orci,3,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,599
+600,Гражданское,amet eros suspendisse accumsan,29,0,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",0,600
+601,Гражданское,urna pretium,15,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",0,601
+602,Военное,vivamus vestibulum sagittis sapien,19,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,602
+603,Военное,fusce congue,2,1,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",1,603
+604,Военное,vivamus,45,0,Nunc purus.,0,604
+605,Гражданское,rutrum neque aenean,15,1,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",1,605
+606,Военное,eu,37,1,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",0,606
+607,Гражданское,dapibus nulla suscipit,28,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,0,607
+608,Гражданское,enim,48,0,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,1,608
+609,Военное,eu massa donec,4,1,Phasellus id sapien in sapien iaculis congue.,0,609
+610,Военное,velit donec diam neque,5,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,610
+611,Военное,congue eget semper,33,1,In congue.,0,611
+612,Гражданское,fusce,9,0,Curabitur gravida nisi at nibh.,0,612
+613,Военное,ut volutpat sapien arcu,9,1,Nulla justo.,0,613
+614,Гражданское,quis,43,0,Etiam vel augue. Vestibulum rutrum rutrum neque.,1,614
+615,Гражданское,porta volutpat quam pede,3,1,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",0,615
+616,Гражданское,integer ac leo,28,1,Aliquam erat volutpat.,0,616
+617,Военное,bibendum morbi non quam,31,1,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",1,617
+618,Гражданское,lobortis vel,34,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",0,618
+619,Гражданское,lorem integer tincidunt ante,12,0,Quisque id justo sit amet sapien dignissim vestibulum.,1,619
+620,Гражданское,sapien,12,0,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",0,620
+621,Гражданское,risus dapibus augue,31,1,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",1,621
+622,Гражданское,a ipsum integer a,9,0,Aenean auctor gravida sem.,0,622
+623,Военное,in quis justo,10,0,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",0,623
+624,Гражданское,ac,35,1,Etiam faucibus cursus urna. Ut tellus.,0,624
+625,Военное,maecenas,45,0,In hac habitasse platea dictumst.,1,625
+626,Гражданское,in magna,40,1,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,0,626
+627,Военное,non,21,1,Duis bibendum.,1,627
+628,Военное,nam dui,39,0,Nulla nisl. Nunc nisl.,0,628
+629,Гражданское,sed accumsan felis,46,1,Nullam molestie nibh in lectus.,1,629
+630,Гражданское,ac consequat metus sapien,27,1,Praesent blandit lacinia erat.,0,630
+631,Гражданское,nunc rhoncus,43,1,Curabitur in libero ut massa volutpat convallis.,0,631
+632,Военное,montes nascetur,19,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",1,632
+633,Гражданское,nulla suspendisse potenti cras,18,0,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",1,633
+634,Гражданское,vulputate elementum nullam,38,1,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,1,634
+635,Военное,vel ipsum praesent,7,0,Fusce consequat.,1,635
+636,Военное,orci mauris lacinia,25,1,Cras non velit nec nisi vulputate nonummy.,1,636
+637,Гражданское,nisi venenatis,49,1,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",0,637
+638,Военное,morbi,4,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",1,638
+639,Военное,eget,50,1,In blandit ultrices enim.,1,639
+640,Гражданское,neque sapien,36,1,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",1,640
+641,Гражданское,et,29,0,Praesent blandit. Nam nulla.,1,641
+642,Гражданское,aliquet,50,0,Integer ac neque. Duis bibendum.,0,642
+643,Гражданское,justo,36,1,Ut at dolor quis odio consequat varius. Integer ac leo.,1,643
+644,Военное,cubilia curae duis,39,1,Sed ante. Vivamus tortor.,0,644
+645,Военное,natoque penatibus,38,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,645
+646,Военное,quam a odio in,27,0,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,0,646
+647,Военное,etiam pretium,27,1,Donec ut mauris eget massa tempor convallis.,0,647
+648,Военное,in imperdiet,12,1,Nullam varius.,0,648
+649,Военное,suspendisse potenti,3,0,Integer ac neque. Duis bibendum.,1,649
+650,Военное,sit amet justo,27,0,In congue.,1,650
+651,Военное,mi sit amet lobortis,9,1,Nunc purus.,1,651
+652,Военное,ultrices,29,0,Duis bibendum. Morbi non quam nec dui luctus rutrum.,0,652
+653,Гражданское,odio,48,0,Donec vitae nisi.,1,653
+654,Гражданское,posuere cubilia curae,29,1,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",0,654
+655,Военное,imperdiet,36,0,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,1,655
+656,Военное,morbi non quam nec,46,1,Nulla nisl. Nunc nisl.,0,656
+657,Гражданское,arcu adipiscing molestie,27,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",1,657
+658,Военное,in,23,0,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,1,658
+659,Гражданское,molestie lorem,28,0,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,0,659
+660,Военное,elementum,35,0,Donec dapibus.,0,660
+661,Гражданское,duis mattis egestas,48,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,1,661
+662,Военное,velit donec diam neque,30,0,Nulla mollis molestie lorem. Quisque ut erat.,0,662
+663,Гражданское,dapibus,46,1,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,1,663
+664,Гражданское,suscipit a,15,1,Vestibulum sed magna at nunc commodo placerat.,0,664
+665,Военное,nulla quisque arcu,13,1,Nulla tellus. In sagittis dui vel nisl.,0,665
+666,Гражданское,donec ut mauris eget,40,0,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",1,666
+667,Гражданское,amet diam,40,1,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,1,667
+668,Гражданское,velit donec,28,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",0,668
+669,Военное,at dolor,29,1,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",0,669
+670,Гражданское,sapien,7,1,Phasellus in felis. Donec semper sapien a libero.,0,670
+671,Военное,nunc commodo placerat,42,1,Nulla suscipit ligula in lacus.,1,671
+672,Военное,nunc purus phasellus,14,0,Maecenas rhoncus aliquam lacus.,0,672
+673,Гражданское,arcu adipiscing,40,1,Donec semper sapien a libero.,1,673
+674,Гражданское,pede venenatis,23,1,Morbi ut odio.,1,674
+675,Военное,massa id nisl venenatis,22,0,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",0,675
+676,Гражданское,sit amet erat,40,1,Vestibulum ac est lacinia nisi venenatis tristique.,0,676
+677,Гражданское,leo odio condimentum,21,1,Proin interdum mauris non ligula pellentesque ultrices.,1,677
+678,Военное,quis,11,0,Nulla mollis molestie lorem.,0,678
+679,Гражданское,eros viverra eget,48,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,1,679
+680,Военное,nisl venenatis,34,1,Duis mattis egestas metus.,1,680
+681,Военное,sapien non mi integer,43,1,Integer tincidunt ante vel ipsum.,1,681
+682,Гражданское,diam neque vestibulum eget,13,1,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",0,682
+683,Военное,vel augue vestibulum ante,10,0,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,683
+684,Военное,purus phasellus in felis,15,1,Etiam faucibus cursus urna. Ut tellus.,0,684
+685,Военное,primis in faucibus orci,26,1,Sed accumsan felis. Ut at dolor quis odio consequat varius.,0,685
+686,Военное,lacus morbi sem,3,0,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,0,686
+687,Военное,nulla quisque arcu libero,37,0,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",1,687
+688,Гражданское,nunc commodo placerat,47,0,Nunc purus.,0,688
+689,Гражданское,ut dolor morbi,29,0,In eleifend quam a odio.,1,689
+690,Гражданское,mauris sit,37,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",0,690
+691,Военное,ante ipsum primis,44,1,Duis bibendum.,0,691
+692,Военное,eros vestibulum,7,1,Morbi ut odio.,0,692
+693,Гражданское,ipsum dolor sit amet,39,0,Phasellus sit amet erat. Nulla tempus.,0,693
+694,Гражданское,eu,21,1,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",0,694
+695,Гражданское,auctor sed,14,1,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",1,695
+696,Гражданское,lectus,16,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,1,696
+697,Военное,tristique tortor eu,4,0,Morbi non quam nec dui luctus rutrum. Nulla tellus.,0,697
+698,Гражданское,duis faucibus,44,1,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",1,698
+699,Военное,odio,37,1,Phasellus sit amet erat.,1,699
+700,Гражданское,nibh quisque id justo,47,1,Etiam justo. Etiam pretium iaculis justo.,1,700
+701,Гражданское,tempor convallis nulla neque,27,0,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,1,701
+702,Военное,dapibus duis at,1,0,Nam nulla.,1,702
+703,Гражданское,platea dictumst,39,1,Sed ante.,0,703
+704,Военное,dui,25,0,Donec vitae nisi.,1,704
+705,Гражданское,enim sit,42,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",1,705
+706,Военное,etiam,34,0,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,0,706
+707,Гражданское,cum sociis natoque,28,1,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",1,707
+708,Гражданское,rutrum,3,1,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",0,708
+709,Военное,a nibh in,47,0,Nulla tempus.,1,709
+710,Гражданское,massa id lobortis convallis,48,0,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",1,710
+711,Гражданское,in,3,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",1,711
+712,Гражданское,id massa id nisl,11,0,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,0,712
+713,Гражданское,metus sapien ut nunc,30,0,Duis consequat dui nec nisi volutpat eleifend.,1,713
+714,Военное,erat,34,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",0,714
+715,Гражданское,augue a,23,0,Duis mattis egestas metus. Aenean fermentum.,1,715
+716,Гражданское,sed tincidunt eu felis,27,0,Maecenas tincidunt lacus at velit.,1,716
+717,Военное,pede ac diam cras,41,0,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,0,717
+718,Военное,curabitur gravida,7,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",0,718
+719,Военное,sit amet,11,1,Vivamus vestibulum sagittis sapien.,1,719
+720,Гражданское,hendrerit at vulputate,10,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",0,720
+721,Гражданское,duis consequat,43,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,721
+722,Гражданское,non velit nec,29,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",1,722
+723,Гражданское,dui vel sem,16,0,Vivamus vel nulla eget eros elementum pellentesque.,1,723
+724,Гражданское,sapien urna pretium,32,0,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,0,724
+725,Гражданское,dapibus augue vel,48,1,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",1,725
+726,Военное,ipsum ac tellus,43,1,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,0,726
+727,Военное,posuere,10,0,Nulla tellus.,1,727
+728,Военное,nibh ligula nec,49,1,Curabitur gravida nisi at nibh.,1,728
+729,Гражданское,vestibulum sit,34,0,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,0,729
+730,Гражданское,velit id,23,0,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,1,730
+731,Военное,a,46,0,Aenean sit amet justo. Morbi ut odio.,1,731
+732,Гражданское,id justo,38,1,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",0,732
+733,Гражданское,curae duis faucibus,26,0,Aenean sit amet justo. Morbi ut odio.,0,733
+734,Гражданское,luctus tincidunt nulla mollis,23,1,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",0,734
+735,Военное,porttitor lorem id,13,0,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",1,735
+736,Гражданское,nibh ligula,37,0,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,736
+737,Военное,in hac habitasse,5,1,Pellentesque eget nunc.,0,737
+738,Военное,nulla ultrices aliquet maecenas,34,0,Pellentesque viverra pede ac diam.,1,738
+739,Гражданское,dictumst morbi vestibulum,5,1,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",1,739
+740,Гражданское,a nibh in quis,50,1,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,740
+741,Гражданское,blandit non,18,0,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,1,741
+742,Гражданское,habitasse platea,3,1,Mauris sit amet eros.,0,742
+743,Военное,varius ut blandit,2,1,Praesent blandit.,0,743
+744,Гражданское,nam ultrices libero non,5,0,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",1,744
+745,Гражданское,sit amet diam,25,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",0,745
+746,Военное,purus phasellus in felis,47,0,Vivamus in felis eu sapien cursus vestibulum.,1,746
+747,Военное,phasellus,28,0,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",0,747
+748,Военное,diam neque vestibulum eget,36,0,Vestibulum ac est lacinia nisi venenatis tristique.,0,748
+749,Военное,enim leo rhoncus,23,1,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,1,749
+750,Гражданское,molestie,19,1,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,0,750
+751,Гражданское,eleifend quam a,19,0,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,0,751
+752,Военное,leo rhoncus,25,0,Proin eu mi.,0,752
+753,Военное,phasellus in,49,0,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,1,753
+754,Военное,lacinia,30,1,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",0,754
+755,Военное,nunc,47,0,Quisque id justo sit amet sapien dignissim vestibulum.,1,755
+756,Гражданское,id ornare imperdiet,39,1,Quisque ut erat.,0,756
+757,Военное,praesent blandit nam,33,0,Ut tellus. Nulla ut erat id mauris vulputate elementum.,0,757
+758,Гражданское,penatibus,15,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",1,758
+759,Военное,pellentesque,8,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,759
+760,Гражданское,leo pellentesque ultrices,15,0,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",0,760
+761,Военное,arcu adipiscing molestie,5,0,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",0,761
+762,Военное,ipsum aliquam non mauris,47,1,In congue. Etiam justo.,1,762
+763,Военное,et magnis dis,9,1,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",0,763
+764,Гражданское,morbi non quam,21,1,Nullam varius. Nulla facilisi.,0,764
+765,Гражданское,quis,5,1,Maecenas rhoncus aliquam lacus.,0,765
+766,Гражданское,vulputate luctus,33,0,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,0,766
+767,Гражданское,rhoncus mauris enim leo,50,1,In hac habitasse platea dictumst.,1,767
+768,Военное,est risus,32,1,Suspendisse potenti. In eleifend quam a odio.,0,768
+769,Гражданское,amet turpis,19,0,Pellentesque ultrices mattis odio.,0,769
+770,Военное,enim,4,0,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,770
+771,Гражданское,in eleifend quam a,11,0,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",1,771
+772,Военное,nulla justo aliquam quis,1,0,Proin risus.,0,772
+773,Гражданское,maecenas,35,1,Nunc purus.,0,773
+774,Гражданское,sit amet consectetuer,17,1,Maecenas ut massa quis augue luctus tincidunt.,0,774
+775,Военное,ut,33,0,Vestibulum ac est lacinia nisi venenatis tristique.,0,775
+776,Гражданское,ac enim,17,0,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",1,776
+777,Гражданское,magnis dis parturient montes,7,0,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,1,777
+778,Военное,elit,12,1,Proin risus. Praesent lectus.,0,778
+779,Гражданское,odio justo sollicitudin ut,27,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,779
+780,Гражданское,nisl duis,25,0,Nam dui.,1,780
+781,Военное,amet eros suspendisse accumsan,27,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",1,781
+782,Военное,ante ipsum primis,25,0,In hac habitasse platea dictumst.,1,782
+783,Военное,in tempus sit amet,23,1,Nullam sit amet turpis elementum ligula vehicula consequat.,1,783
+784,Военное,dapibus,4,1,Duis at velit eu est congue elementum.,1,784
+785,Военное,in lacus,36,1,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",0,785
+786,Военное,in hac habitasse,19,0,Phasellus id sapien in sapien iaculis congue.,1,786
+787,Военное,pellentesque,18,1,In hac habitasse platea dictumst.,1,787
+788,Гражданское,nam dui proin,6,0,Curabitur convallis.,1,788
+789,Военное,platea dictumst maecenas ut,35,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,0,789
+790,Военное,non quam nec dui,44,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",1,790
+791,Гражданское,erat,10,1,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,1,791
+792,Гражданское,congue diam,1,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,0,792
+793,Военное,eu interdum eu tincidunt,28,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",0,793
+794,Гражданское,quam pharetra magna ac,21,0,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,0,794
+795,Военное,faucibus,46,1,Vestibulum rutrum rutrum neque.,0,795
+796,Военное,nunc donec quis orci,37,0,Curabitur convallis.,0,796
+797,Военное,ligula vehicula consequat,39,0,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",1,797
+798,Военное,molestie,34,0,In quis justo. Maecenas rhoncus aliquam lacus.,0,798
+799,Военное,nisl venenatis lacinia,13,1,Donec ut dolor.,0,799
+800,Гражданское,curae nulla dapibus,44,0,Vivamus vestibulum sagittis sapien.,0,800
+801,Гражданское,etiam pretium iaculis,17,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",0,801
+802,Военное,sed vel enim,10,1,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,1,802
+803,Военное,nulla facilisi cras,49,1,Mauris sit amet eros.,1,803
+804,Военное,integer ac leo pellentesque,24,0,Sed sagittis.,1,804
+805,Гражданское,hac habitasse platea dictumst,34,0,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",0,805
+806,Гражданское,a,9,1,Nunc rhoncus dui vel sem. Sed sagittis.,1,806
+807,Военное,nulla sed accumsan felis,31,1,In eleifend quam a odio. In hac habitasse platea dictumst.,0,807
+808,Гражданское,imperdiet sapien urna,16,1,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1,808
+809,Военное,justo in blandit,1,1,Morbi non quam nec dui luctus rutrum. Nulla tellus.,0,809
+810,Военное,integer non velit,37,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",1,810
+811,Военное,ac leo pellentesque,42,1,Curabitur gravida nisi at nibh.,1,811
+812,Военное,nulla tellus in sagittis,3,1,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",0,812
+813,Военное,blandit,16,0,Aenean sit amet justo.,0,813
+814,Военное,vitae nisl,27,0,Morbi porttitor lorem id ligula.,1,814
+815,Гражданское,eu,16,0,Pellentesque ultrices mattis odio. Donec vitae nisi.,1,815
+816,Гражданское,sed augue aliquam erat,27,0,Pellentesque viverra pede ac diam.,1,816
+817,Гражданское,nulla justo aliquam,8,1,Duis aliquam convallis nunc.,1,817
+818,Гражданское,turpis sed ante,9,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",0,818
+819,Военное,ultrices enim,40,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,819
+820,Военное,morbi non,5,0,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,1,820
+821,Военное,quis lectus suspendisse,33,1,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",1,821
+822,Военное,posuere,34,0,Ut at dolor quis odio consequat varius.,1,822
+823,Военное,vulputate elementum nullam varius,13,0,Fusce posuere felis sed lacus.,0,823
+824,Гражданское,ipsum primis in faucibus,49,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",1,824
+825,Военное,praesent blandit,26,0,Integer ac neque. Duis bibendum.,0,825
+826,Гражданское,ac nibh fusce,8,0,Integer tincidunt ante vel ipsum.,1,826
+827,Военное,felis sed,25,1,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,0,827
+828,Военное,rutrum nulla nunc,36,0,Nunc nisl.,0,828
+829,Гражданское,lacus,37,0,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,1,829
+830,Военное,sit amet,3,0,Proin risus. Praesent lectus.,1,830
+831,Военное,faucibus orci luctus et,11,1,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,0,831
+832,Гражданское,vulputate luctus,29,1,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",1,832
+833,Гражданское,posuere cubilia,16,0,Phasellus id sapien in sapien iaculis congue.,0,833
+834,Гражданское,duis mattis egestas metus,50,0,Nulla nisl. Nunc nisl.,1,834
+835,Военное,in sagittis dui vel,27,0,Vivamus tortor. Duis mattis egestas metus.,0,835
+836,Гражданское,nisl duis,2,1,Vestibulum rutrum rutrum neque.,1,836
+837,Военное,ut suscipit,21,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",0,837
+838,Гражданское,varius integer,28,0,Nunc rhoncus dui vel sem. Sed sagittis.,1,838
+839,Гражданское,elementum nullam varius nulla,20,0,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",0,839
+840,Военное,volutpat erat quisque,5,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",1,840
+841,Военное,pulvinar lobortis est,46,1,Morbi a ipsum.,1,841
+842,Военное,ridiculus mus,27,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1,842
+843,Гражданское,nulla,36,0,Mauris ullamcorper purus sit amet nulla.,0,843
+844,Военное,mi sit amet lobortis,20,1,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,844
+845,Военное,at nulla,44,0,In sagittis dui vel nisl. Duis ac nibh.,0,845
+846,Военное,in magna bibendum imperdiet,13,0,In hac habitasse platea dictumst.,1,846
+847,Военное,leo,48,0,Suspendisse potenti. Nullam porttitor lacus at turpis.,0,847
+848,Военное,maecenas tincidunt lacus,14,0,Duis aliquam convallis nunc.,0,848
+849,Военное,tempor turpis nec euismod,1,0,Nullam varius.,1,849
+850,Гражданское,a,49,0,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,0,850
+851,Гражданское,tristique est et tempus,13,0,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",0,851
+852,Военное,faucibus accumsan odio,40,1,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",0,852
+853,Гражданское,sed ante,20,0,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,1,853
+854,Военное,sed nisl,29,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",1,854
+855,Военное,interdum,8,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",1,855
+856,Военное,risus,18,1,Aenean auctor gravida sem.,1,856
+857,Военное,at nulla,11,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",1,857
+858,Гражданское,mauris,3,0,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",0,858
+859,Гражданское,ut nunc vestibulum,36,0,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,0,859
+860,Военное,vulputate,42,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",1,860
+861,Военное,id turpis,4,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,861
+862,Гражданское,nibh in,8,0,Suspendisse potenti.,0,862
+863,Военное,cum,14,0,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,1,863
+864,Гражданское,accumsan odio,20,1,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",1,864
+865,Военное,lorem,18,0,Nulla mollis molestie lorem.,0,865
+866,Военное,sed,7,1,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,0,866
+867,Военное,urna pretium nisl ut,10,0,Donec semper sapien a libero. Nam dui.,0,867
+868,Гражданское,porttitor pede justo eu,48,0,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,0,868
+869,Гражданское,non ligula pellentesque ultrices,8,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",0,869
+870,Военное,curabitur at ipsum ac,20,0,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,1,870
+871,Гражданское,justo pellentesque viverra,44,1,Fusce posuere felis sed lacus.,0,871
+872,Гражданское,suspendisse potenti,38,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",0,872
+873,Военное,tincidunt eu,44,0,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",1,873
+874,Военное,luctus nec molestie sed,7,1,Etiam justo. Etiam pretium iaculis justo.,1,874
+875,Военное,amet justo morbi ut,31,1,Nulla tellus.,0,875
+876,Гражданское,ut massa quis,9,1,Vivamus in felis eu sapien cursus vestibulum.,0,876
+877,Военное,sit amet,6,0,Nulla ut erat id mauris vulputate elementum. Nullam varius.,0,877
+878,Военное,quis orci eget orci,43,1,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",1,878
+879,Гражданское,lobortis vel dapibus at,11,1,Duis ac nibh.,0,879
+880,Военное,libero nam,27,0,Etiam faucibus cursus urna. Ut tellus.,0,880
+881,Военное,dapibus dolor vel est,15,0,Morbi vel lectus in quam fringilla rhoncus.,1,881
+882,Гражданское,elit proin,42,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,882
+883,Гражданское,donec ut,23,0,Duis ac nibh.,1,883
+884,Военное,quis augue,25,0,Praesent id massa id nisl venenatis lacinia.,1,884
+885,Гражданское,vestibulum,4,0,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",1,885
+886,Гражданское,a,17,1,Donec ut dolor.,0,886
+887,Военное,morbi odio odio elementum,26,0,Etiam pretium iaculis justo.,1,887
+888,Военное,accumsan,32,0,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",0,888
+889,Военное,varius integer,14,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",1,889
+890,Гражданское,ac,8,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",1,890
+891,Военное,neque,6,1,Ut tellus. Nulla ut erat id mauris vulputate elementum.,0,891
+892,Гражданское,est phasellus sit,49,1,Nullam varius.,1,892
+893,Гражданское,convallis duis,36,1,Etiam vel augue. Vestibulum rutrum rutrum neque.,0,893
+894,Гражданское,nulla,20,1,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",1,894
+895,Военное,eu orci,18,1,Etiam justo.,0,895
+896,Военное,id pretium,23,0,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1,896
+897,Военное,ultrices,23,1,Duis mattis egestas metus. Aenean fermentum.,0,897
+898,Военное,rutrum rutrum,10,0,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,0,898
+899,Гражданское,eget orci,46,0,Aenean fermentum.,0,899
+900,Гражданское,arcu,38,1,Aliquam non mauris.,1,900
+901,Военное,et,6,0,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",1,901
+902,Военное,nulla,6,0,In congue. Etiam justo.,0,902
+903,Гражданское,est,22,1,Aliquam non mauris. Morbi non lectus.,0,903
+904,Военное,curabitur convallis duis,39,1,Cras in purus eu magna vulputate luctus.,1,904
+905,Гражданское,maecenas pulvinar lobortis est,43,1,Nullam molestie nibh in lectus.,1,905
+906,Гражданское,mattis odio donec,41,0,Maecenas ut massa quis augue luctus tincidunt.,0,906
+907,Военное,at,13,0,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",0,907
+908,Гражданское,enim sit amet nunc,7,1,Nam nulla.,1,908
+909,Гражданское,ut mauris eget,26,1,Maecenas pulvinar lobortis est.,0,909
+910,Гражданское,eu,33,0,Cras pellentesque volutpat dui.,1,910
+911,Военное,ut,24,1,Curabitur in libero ut massa volutpat convallis.,0,911
+912,Военное,curabitur gravida nisi at,22,1,Nullam molestie nibh in lectus.,0,912
+913,Военное,nulla,32,1,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",0,913
+914,Гражданское,congue,12,0,Integer ac leo. Pellentesque ultrices mattis odio.,1,914
+915,Гражданское,pede ullamcorper,43,1,Proin at turpis a pede posuere nonummy. Integer non velit.,0,915
+916,Гражданское,tempus,4,0,Nulla ut erat id mauris vulputate elementum.,1,916
+917,Военное,porttitor,3,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",0,917
+918,Гражданское,diam,36,0,Sed sagittis.,0,918
+919,Гражданское,in ante vestibulum ante,48,1,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",1,919
+920,Военное,tellus in sagittis dui,37,1,Maecenas tincidunt lacus at velit.,1,920
+921,Гражданское,nibh fusce,24,1,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",1,921
+922,Гражданское,ac enim in,36,1,Duis mattis egestas metus. Aenean fermentum.,1,922
+923,Гражданское,mauris viverra diam vitae,41,0,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",0,923
+924,Гражданское,consequat metus sapien ut,1,1,Integer ac leo. Pellentesque ultrices mattis odio.,1,924
+925,Военное,diam cras pellentesque volutpat,16,1,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,0,925
+926,Гражданское,in,33,1,In quis justo. Maecenas rhoncus aliquam lacus.,0,926
+927,Гражданское,ac enim,43,0,Nullam varius.,0,927
+928,Гражданское,pede morbi porttitor lorem,26,0,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,928
+929,Военное,aliquam,2,0,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,1,929
+930,Гражданское,gravida sem praesent,11,1,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,0,930
+931,Гражданское,mi integer,42,1,Vivamus vel nulla eget eros elementum pellentesque.,1,931
+932,Гражданское,in magna bibendum imperdiet,5,0,Praesent blandit. Nam nulla.,0,932
+933,Военное,magna,30,1,Nullam varius.,0,933
+934,Военное,mi nulla,9,0,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",1,934
+935,Гражданское,venenatis non,7,1,Duis consequat dui nec nisi volutpat eleifend.,0,935
+936,Гражданское,mauris vulputate,2,1,Donec semper sapien a libero. Nam dui.,1,936
+937,Военное,sit,49,0,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",0,937
+938,Военное,augue,8,0,Quisque porta volutpat erat.,1,938
+939,Военное,molestie sed,41,0,Donec posuere metus vitae ipsum. Aliquam non mauris.,1,939
+940,Военное,consequat,11,0,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,0,940
+941,Гражданское,consequat in,48,0,Aenean sit amet justo.,1,941
+942,Гражданское,posuere metus vitae ipsum,3,0,Aenean sit amet justo.,1,942
+943,Гражданское,diam vitae,30,1,Phasellus sit amet erat. Nulla tempus.,0,943
+944,Гражданское,maecenas tincidunt lacus,45,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",1,944
+945,Гражданское,lobortis sapien sapien,43,0,Suspendisse potenti.,1,945
+946,Гражданское,a libero nam dui,21,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",1,946
+947,Военное,nisi nam ultrices libero,17,1,Suspendisse accumsan tortor quis turpis. Sed ante.,0,947
+948,Военное,curae nulla dapibus,49,0,Duis bibendum. Morbi non quam nec dui luctus rutrum.,0,948
+949,Военное,ac,26,1,Suspendisse potenti. In eleifend quam a odio.,1,949
+950,Гражданское,velit donec diam neque,28,1,Integer a nibh.,0,950
+951,Военное,rhoncus,13,0,In hac habitasse platea dictumst.,0,951
+952,Военное,sapien placerat ante nulla,20,1,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,0,952
+953,Гражданское,gravida nisi at nibh,41,0,Integer a nibh. In quis justo.,1,953
+954,Военное,orci luctus et,21,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",1,954
+955,Военное,nisi vulputate nonummy maecenas,40,1,Nunc nisl.,0,955
+956,Гражданское,hac habitasse platea,30,0,Pellentesque viverra pede ac diam.,1,956
+957,Гражданское,amet erat nulla,22,0,Curabitur in libero ut massa volutpat convallis.,0,957
+958,Военное,at turpis,12,0,Curabitur gravida nisi at nibh.,1,958
+959,Гражданское,rhoncus,16,1,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",0,959
+960,Военное,diam,31,0,Nullam molestie nibh in lectus.,1,960
+961,Военное,viverra diam vitae quam,5,1,In sagittis dui vel nisl.,1,961
+962,Гражданское,donec dapibus duis at,16,0,Ut at dolor quis odio consequat varius. Integer ac leo.,1,962
+963,Военное,vel,8,1,Praesent id massa id nisl venenatis lacinia.,1,963
+964,Военное,ut massa volutpat,28,1,Nulla tellus.,0,964
+965,Гражданское,eget semper rutrum,24,0,Donec vitae nisi.,1,965
+966,Гражданское,nisi,36,1,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",0,966
+967,Военное,rutrum rutrum neque,17,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,1,967
+968,Военное,nisl,16,0,Nunc nisl.,0,968
+969,Военное,tellus,15,1,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",0,969
+970,Военное,turpis a,35,1,Quisque ut erat.,1,970
+971,Гражданское,blandit nam nulla,19,0,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,1,971
+972,Военное,lacinia eget,30,0,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,0,972
+973,Военное,nibh quisque id,48,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",1,973
+974,Военное,mattis pulvinar,22,1,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,0,974
+975,Гражданское,velit vivamus,3,0,In congue. Etiam justo.,1,975
+976,Военное,orci,29,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",0,976
+977,Военное,viverra pede ac diam,23,1,Morbi ut odio.,0,977
+978,Гражданское,non ligula,24,1,Praesent blandit.,0,978
+979,Военное,eleifend,3,1,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,0,979
+980,Военное,sit,10,1,Etiam pretium iaculis justo.,0,980
+981,Военное,pede,12,0,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,0,981
+982,Гражданское,felis,42,0,Nulla tellus. In sagittis dui vel nisl.,0,982
+983,Военное,erat fermentum justo nec,5,1,Morbi a ipsum. Integer a nibh.,1,983
+984,Военное,morbi odio odio,38,0,Cras non velit nec nisi vulputate nonummy.,1,984
+985,Военное,parturient,6,0,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",1,985
+986,Гражданское,mi pede,43,0,Etiam vel augue.,0,986
+987,Гражданское,euismod scelerisque quam,15,1,Nam dui.,1,987
+988,Гражданское,erat eros viverra eget,37,1,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,1,988
+989,Гражданское,integer ac leo,11,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,1,989
+990,Гражданское,cras pellentesque volutpat dui,37,0,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",1,990
+991,Военное,tristique,14,0,Proin eu mi. Nulla ac enim.,1,991
+992,Военное,consequat lectus in,45,0,Proin eu mi. Nulla ac enim.,1,992
+993,Военное,sapien in,44,0,Integer ac neque.,0,993
+994,Гражданское,nunc,8,0,Morbi non quam nec dui luctus rutrum. Nulla tellus.,0,994
+995,Гражданское,nisl duis ac,44,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",0,995
+996,Гражданское,platea,22,1,In sagittis dui vel nisl.,0,996
+997,Военное,pretium nisl ut,23,1,Nulla nisl. Nunc nisl.,1,997
+998,Гражданское,turpis a pede,24,1,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,1,998
+999,Гражданское,mi in,45,1,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",1,999
+1000,Военное,leo,20,0,Nam tristique tortor eu pede.,1,1000
