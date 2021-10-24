@@ -15,8 +15,6 @@ CREATE TABLE IF NOT EXISTS `Flight` (
      PRIMARY KEY (`id`)
 );
 -- 2
-
--- 3
 CREATE TABLE IF NOT EXISTS `Plane` (
 	`id` INT NOT NULL AUTO_INCREMENT,
 	`Производитель` VARCHAR(45) NOT NULL,
@@ -27,13 +25,14 @@ CREATE TABLE IF NOT EXISTS `Plane` (
  	`id_Hangar` INT NOT NULL,
 	PRIMARY KEY (`id`)
 );
--- 4
+-- 3
 CREATE TABLE IF NOT EXISTS `Passenger` (
 	`id` INT NOT NULL AUTO_INCREMENT,
 	`ФИО` VARCHAR(255) NOT NULL,
     `Паспортные данные` VARCHAR(100) NOT NULL,
 	PRIMARY KEY (`id`)
 );
+-- 4
 CREATE TABLE IF NOT EXISTS `Ticket` (
 	`id` INT NOT NULL AUTO_INCREMENT,
 	`Номер` VARCHAR(255) NOT NULL,
@@ -44,7 +43,6 @@ CREATE TABLE IF NOT EXISTS `Ticket` (
 	`id_Passenger` INT NOT NULL,
 	PRIMARY KEY (`id`)
 );
-
 -- 5
 CREATE TABLE IF NOT EXISTS `Hangar` (
 	`id` INT NOT NULL AUTO_INCREMENT,
