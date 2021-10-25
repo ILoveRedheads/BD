@@ -6,14 +6,15 @@
 
 ## 2 ["Логическое проектирование базы данных"](docs/lab2.png)
 
-2.2 [Протокол ко второй лабе](docs/Zhaba_BD_2.docx)
+2.1 [Протокол ко второй лабе](docs/Zhaba_BD_2.docx)
 
 ## 3 ["Физическое проектирование базы данных"](files/Zhaba_BD_3.sql)
-3.3 [БД Одногруппника](files/Zhaba_Mishi.sql)
+3.1 [БД Одногруппника](files/Zhaba_Mishi.sql)
 
 ## 4 ["Реализация SQL-запросов базы данных"](files/Zhaba_BD_4.sql)
 
-## 5 ["Индексы, хранимые процедуры, представления (In Progress)"](https://youtu.be/dQw4w9WgXcQ)
+## 5 ["Индексы, хранимые процедуры, представления (90% READY)"](files/Zhaba_BD_5.sql)
+5.1 [RICKROLL :D](https://youtu.be/dQw4w9WgXcQ)
 
 ## 6 ["Взаимодействие с БД из приложения"]
 
