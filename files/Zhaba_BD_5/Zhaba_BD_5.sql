@@ -163,163 +163,134 @@ ENCLOSED BY '"'
 LINES TERMINATED BY 'n'
 IGNORE 1 ROWS;
 
--- Процедуры
+
+-- 3 Процедуры
+
+-- 1. Выведем авиамехаников, которые работают с первой по десятую станцию
 
 DELIMITER //
-
-CREATE PROCEDURE FirstProcedure()
+CREATE PROCEDURE Mehaniki() 
 BEGIN 
-	SELECT 'This is my first procedure';
-END //
-DELIMITER ; 
-
-CALL FirstProcedure();
-
--- 1.
-
--- Выведем при помощи процедуры информацию о карте в диапазоне
--- Выбираем данные, которые нужны, при помощи SELECT
--- Задаем условие выборки: у конкретной карты по id-конкретный тип продукта 
--- Возьмем не сильно объемную часть выборки - (5;100)
-
-DELIMITER //
-CREATE PROCEDURE CardType() 
-BEGIN 
-	SELECT  product.id, `name`, connection_date
-    FROM product_type
-    JOIN product ON product_type.id = product.id
-    WHERE product.id>5 AND product.id<100;
+	SELECT id
+    FROM Repair_Station
+    JOIN Aircraft_Mechanic ON Repair_Station.id=Aircraft_Mechanic.id_Repair_Station
+    WHERE id>1 AND id<10;
 END //
 DELIMITER ;
-CALL CardType();
+CALL Mehaniki();
 
--- 2
 
--- Выведем максимальную зарплату специалиста
+-- 2. Выведем максимальную зарплату пилота
 
 DELIMITER //
-CREATE PROCEDURE maximumPrize(OUT salary INT)
+CREATE PROCEDURE MaxSal(OUT `Зарплата` INT)
 BEGIN 
-	SELECT MAX(salary)
-    INTO salary
-    FROM specialist;
+	SELECT MAX(`Зарплата`)
+    INTO `Зарплата`
+    FROM `Pilot`;
 END //
 DELIMITER ;
 
-CALL maximumPrize(@MaxSalary);
+CALL MaxSal(@MaxSalary);
 SELECT @MaxSalary;
 
--- 3.
 
--- Выведем кота, который продается в магазине "Четыре лапы" и id
+-- 3. Выводим имена всех бортпроводниц
 
 DELIMITER //
-CREATE PROCEDURE catsAndShop()
+CREATE PROCEDURE Flight_Women()
 BEGIN
-	SELECT *
-    FROM shops
-    WHERE shopname = "Четыре лапы";
+	SELECT `ФИО`
+    FROM `Flight_Attendant`
+    WHERE `Пол` = "Female";
 END //
-CALL catsAndShop();
+CALL Flight_Women();
 
 -- 3 функции.
 
--- 1
--- Создадим функцию, определяющую к какой группе принадлежит сотрудник
--- Занимаемую долнжость выведем через локальную переменную correct
+-- 1 Установим скидки на все авиабилеты по причине отмены пандемии ковида, так как надо окупать застой
 
 DELIMITER $$ 
-CREATE FUNCTION postSpecialist (post varchar(45))
-RETURNS varchar(45)
+CREATE FUNCTION Discount (Стоимость DECIMAL (20))
+RETURNS DECIMAL (20)
 DETERMINISTIC
 BEGIN 
-	DECLARE correct VARCHAR(45); 
-    IF post LIKE  'Специалист отдела' THEN SET correct ='Младщий сотрудник'; 
-ELSE SET correct='СТАРШИЙ СПЕЦИАЛИСТ или стажёр'; 
+	DECLARE Newprice VARCHAR(45); 
+    IF Стоимость > 8000 THEN SET Newprice = 8000;
+ELSE SET Newprice= 4000; 
 END IF; 
-RETURN (correct); 
+RETURN (Newprice); 
 END $$; 
 DELIMITER $$ 
 
-SELECT post,specialist.fullname AS correct, postSpecialist (post)
-FROM specialist;
+SELECT Стоимость AS Newprice, Discount (Стоимость)
+FROM Ticket;
 
--- 2.
-
--- Проверим, хранит ли наша табличка NULL.
--- Если Null будет найден, то вывести "0"
+-- 2. Вместо стоимости билета будем указывать класс комфорта
 
 DELIMITER $$ 
-CREATE FUNCTION addToNull (
-	firstValue INT,
-    secondValue INT
-)
-RETURNS INT
+CREATE FUNCTION AirlineClass (Стоимость DECIMAL (20))
+RETURNS VARCHAR(50)
 DETERMINISTIC
 BEGIN
-	IF firstValue IS NULL THEN
-		SET firstValue = 0;
-	END IF;
-    
-    IF secondValue IS NULL THEN
-		SET secondValue = 0;
-	END IF;
-    
-    RETURN (secondValue,firstValue);
- END $$
- 
- SELECT addToNull(code,code_shops) AS nullRow, id
- FROM cats
- WHERE id > 1;
+	DECLARE ClassType VARCHAR(50);
+    set ClassType = CASE
+        WHEN Стоимость >= 0 AND Стоимость <= 7000 THEN "Лоукостер"
+        WHEN Стоимость >= 7001 AND Стоимость <= 10000 THEN "Эконом"
+        WHEN Стоимость >= 10001 AND Стоимость <= 20000 THEN "Премиум Эконом"
+        WHEN Стоимость >= 200001 AND Стоимость <= 30000 THEN "Бизнесс"
+        WHEN Стоимость >= 30001 AND Стоимость <= 200000 THEN "Первый Класс"
+	END;
+RETURN (ClassType);
+END $$;
+DELIMITER $$       
+ SELECT AirlineClass(Стоимость) AS `Стоимость`
+ FROM `Ticket`;
 
--- 3
-
--- Напишем функцию, которая вычисляет размер кэшбэка по формуле
+-- 3. Вычисляет размер премии каждому пилоту по формуле: Зарплата * 0.15 
 
 DELIMITER $$ 
-CREATE FUNCTION Cashback (
-	cashback INT
+CREATE FUNCTION Bonus (
+	Bonus INT
 )
 RETURNS  INT
 DETERMINISTIC
 BEGIN
-	IF cashback > 5000 AND cashback < 250000 THEN
-		SET cashback = 0.1 * cashback;
+	IF Bonus > 5000 AND Bonus < 2500000 THEN
+		SET Bonus = 0.15 * Bonus;
 	END IF; 
-RETURN (cashback); 
+RETURN (Bonus); 
 END $$; 
 DELIMITER $$ 	
 
-SELECT Cashback(amountINT)
-FROM`action`
-WHERE id < 11;
+SELECT Bonus(Зарплата)
+FROM `Pilot`
+WHERE id < 1001;
+
 
 -- Представления.
--- 1. 
 
--- Аналог №54. INNER JOIN. Выведем название отдела и его состав
+-- 1. Добавим новую таблицу, состоящую из пилотов, которым скоро на пенсию (Стаж больше 25 лет)
 
-CREATE VIEW specialistPertition
-AS SELECT   `staff`, `name`
-FROM  `department` AS `d`
-JOIN `department_type` AS `d_t`
-ON d.id = d_t.id;
+CREATE VIEW Retiree AS
+  SELECT ФИО, Стаж, Должность
+  FROM Pilot
+  WHERE Стаж >=25;
 
--- 2
+SELECT *
+FROM Retiree;
 
--- 55. Такая же логика: название банковского продукта + описание по ID
+-- 2. Таким же макаром выводим содержимое и id рейса грузов военного назначения
 
-CREATE VIEW prudctToProductType
-AS SELECT `name`, `description`
-FROM `product` AS `p`
-JOIN `product_type` AS `p_t`
-ON p.id = p_t.id;
+CREATE VIEW MilitaryCargo AS
+  SELECT Содержимое, id_Flight
+  FROM Cargo
+  WHERE Назначение "Военное";
 
--- 3.
+SELECT *
+FROM MilitaryCargo;
 
--- Для заданного клиента по ФИО вывести выписку о его действиях по его продуктам.
--- В действиях приjoinить ID, тип действия , без отделения
-
+-- 3. Для заданного клиента по ФИО вывести выписку о его действиях по его продуктам.
 
 CREATE VIEW actionAndType
 AS SELECT  id_type_of_action AS new_id_type_of_action , fullname,`name`, `amount`
