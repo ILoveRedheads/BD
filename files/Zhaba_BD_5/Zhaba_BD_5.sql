@@ -289,16 +289,7 @@ CREATE VIEW MilitaryCargo AS
 SELECT *
 FROM MilitaryCargo;
 
--- 3. Для заданного клиента по ФИО вывести выписку о его действиях по его продуктам.
+-- 3. ДОДЕЛАТЬ ЛАСТ ПРЕДСТАВЛЕНИЕ И ЗАМЕРИТЬ ЗАПРОСЫ, ЪУЪ СЪУКА
 
-CREATE VIEW actionAndType
-AS SELECT  id_type_of_action AS new_id_type_of_action , fullname,`name`, `amount`
-FROM сlient c 
-LEFT JOIN  `product` p 
-ON p.id_client = c.id
-LEFT JOIN `action` a
-ON a.account_subject_id = p.id
-LEFT JOIN `action_type` a_t
-ON a.id_type_of_action = a_t.id
-WHERE c.fullname =  'Авдеева А.А.';
+
  
