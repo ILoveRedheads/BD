@@ -518,16 +518,16 @@ SELECT FullName FROM pilot;
 
 -- 86. Покажем самых опытных пилотов
 
-SELECT Exp FROM pilot
+SELECT Стаж FROM pilot
 UNION all
-SELECT FullName FROM pilot
-ORDER BY Exp DESC;
+SELECT ФИО FROM pilot
+ORDER BY Стаж DESC;
 
 -- 87.  Вывести показатели легальности грузов и багажей
-SELECT Is_Legal
+SELECT Легальность
 FROM cargo
 UNION all
-SELECT Is_Legal
+SELECT Легальность
 FROM luggage;
 
 -- GROUP_CONCAT
