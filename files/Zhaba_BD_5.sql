@@ -271,8 +271,8 @@ WHERE id < 1001;
 
 -- 1. Добавим новую таблицу, состоящую из пилотов, которым скоро на пенсию (Стаж больше 25 лет)
 
-CREATE VIEW Retiree AS
-  SELECT ФИО, Стаж, Должность
+CREATE VIEW Retiree 
+AS SELECT ФИО, Стаж, Должность
   FROM Pilot
   WHERE Стаж >=25;
 
@@ -281,15 +281,20 @@ FROM Retiree;
 
 -- 2. Таким же макаром выводим содержимое и id рейса грузов военного назначения
 
-CREATE VIEW MilitaryCargo AS
-  SELECT Содержимое, id_Flight
+CREATE VIEW MilitaryCargo 
+AS SELECT Содержимое, id_Flight
   FROM Cargo
   WHERE Назначение "Военное";
 
 SELECT *
 FROM MilitaryCargo;
 
--- 3. ДОДЕЛАТЬ ЛАСТ ПРЕДСТАВЛЕНИЕ И ЗАМЕРИТЬ ЗАПРОСЫ, ЪУЪ СЪУКА
+-- 3. Выведем данные по рейсу, Маршалу на рейсе и самолету 
 
-
+CREATE VIEW FlightType
+AS SELECT  *
+FROM Flight
+JOIN Air_Marshal ON Air_Marshal.id = Flight.id_Air_Marshal
+JOIN Plane ON Plane.id = Flight.id_Plane;
  
+SELECT * FROM FlightType;
